@@ -5,7 +5,7 @@ import Elsewhere from '../components/Elsewhere.astro';
 import {existsSync} from 'node:fs';
 import {profile} from '../data/profile';
 import {sitePath} from '../data/paths';
-const resume=existsSync(new URL('../../public/resume.pdf',import.meta.url));
+const resume=existsSync(new URL('../../../public/resume.pdf',import.meta.url));
 ---
 <Base kind="about" title="About" description="About Ojaas Hampiholi, a builder, learner, and teacher. Experience at Samsung and Amazon, education, and the other pages published under the same name.">
 <div class="wrap">
