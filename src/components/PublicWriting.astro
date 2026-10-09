@@ -1,6 +1,7 @@
 ---
 import data from '../data/public-writing.json';
 import {formatDate} from '../data/posts';
+import {sitePath} from '../data/paths';
 const {compact=false}=Astro.props;
 const professional={id:'professional',label:'01 / Ideas',title:'Things I\'ve been thinking about.',sources:['LinkedIn','Medium'],description:'Short thoughts on LinkedIn. Longer ideas on Medium. A running collection of things I\'m learning, questioning, building and occasionally overthinking.'};
 const fiction={id:'fiction',label:'02 / Outside the workday',title:'Fiction.',sources:['Substack'],description:'Stories, separate from the professional work.'};
@@ -19,7 +20,7 @@ function listed(source){
  const themes=data.themes.filter(t=>group.sources.includes(t.source));
  const blocks=group.sources.map(source=>({source,entries:listed(source)})).filter(block=>block.entries.length);
  return <section id={group.id} class:list={['section','writing-section',{'personal-writing':group.id!=='professional'}]} aria-labelledby={`${group.id}-title`}>
- <div class="section-heading"><div><h2 id={`${group.id}-title`}>{group.title}</h2></div>{compact&&group.id==='professional'&&<a class="text-link" href="/writing/">All writing ↗</a>}</div>
+ <div class="section-heading"><div><h2 id={`${group.id}-title`}>{group.title}</h2></div>{compact&&group.id==='professional'&&<a class="text-link" href={sitePath('/writing/')}>All writing ↗</a>}</div>
  <p class="section-description">{group.description}</p>
  {!compact&&group.id==='professional'&&(themes.length?<ul class="search-terms">{themes.map(t=><li><a href={t.evidence[0].url}>{t.label}</a></li>)}</ul>:<p class="topic-subtitle">No dated professional writing is available in the last 90 days.</p>)}
  {blocks.map(block=><div>{!compact&&group.sources.length>1&&<h3 class="source-label">{labels[block.source]??block.source}</h3>}<div class="writing-grid">{block.entries.map(entry=><article class="writing-entry"><p class="eyebrow">{entry.source==='LinkedIn'?'LinkedIn / Short post':entry.source==='Medium'?'Medium / Essay':entry.source} · <time datetime={entry.published}>{formatDate(new Date(entry.published))}</time></p><h3><a href={entry.url}>{entry.title}</a></h3>{!compact&&entry.excerpt&&<p>{entry.excerpt}</p>}<a class="text-link" href={entry.url}>Read {entry.source==='LinkedIn'?'post':entry.source==='Substack'?'story':'article'} ↗</a></article>)}</div></div>)}

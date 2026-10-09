@@ -1,8 +1,0 @@
----
-import Base from '../../layouts/Base.astro';
-import SystemSketch from '../../components/SystemSketch.astro';
-import {projects} from '../../data/profile';
-export function getStaticPaths(){return projects.map(project=>({params:{slug:project.slug},props:{project}}));}
-const {project:p}=Astro.props;
----
-<Base title={p.name} description={`${p.workplace}. ${p.roleTitle}. ${p.tenure}. ${p.summary}`}><div class="wrap"><header class="page-head"><a class="breadcrumb" href="/work/">← All work</a><p class="eyebrow" style="margin-top:36px">{p.hat}</p><h1>{p.name}</h1><dl class="role-facts"><div><dt>Workplace</dt><dd>{p.workplace}</dd></div><div><dt>Title</dt><dd>{p.roleTitle}</dd></div><div><dt>Tenure</dt><dd>{p.tenure}</dd></div></dl><p>{p.summary}</p><SystemSketch slug={p.slug}/></header></div><article class="reading"><h2>The problem</h2><p>{p.problem}</p><h2>What I did</h2><ul>{p.approach.map(item=><li>{item}</li>)}</ul><h2>Results</h2><p>{p.outcome}</p><aside class="notice">{p.boundary}</aside></article></Base>

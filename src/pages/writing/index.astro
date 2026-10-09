@@ -1,0 +1,9 @@
+---
+import Base from '../../layouts/Base.astro';
+import PublicWriting from '../../components/PublicWriting.astro';
+import {publishedPosts,formatDate} from '../../data/posts';
+import {profile} from '../../data/profile';
+import {sitePath} from '../../data/paths';
+const posts=await publishedPosts();
+---
+<Base kind="writing" title="AI engineering writing" description="Essays and notes on AI agents, incident reports, and production machine learning by Ojaas Hampiholi."><div class="wrap"><header class="page-head writing-head"><p class="eyebrow">Writing</p><h1>{profile.headline}</h1><p>{profile.intro}</p></header>{posts.length>0&&<section class="section"><h2>Essays from this site.</h2><ul class="article-list">{posts.map(post=><li><p class="eyebrow">{formatDate(post.data.published)}</p><h3><a href={sitePath(`/writing/${post.id}/`)}>{post.data.title}</a></h3><p>{post.data.description}</p></li>)}</ul></section>}<PublicWriting/></div></Base>

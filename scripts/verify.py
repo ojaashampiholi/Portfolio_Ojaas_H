@@ -29,6 +29,7 @@ assert len({p.title for p in pages.values()})==len(pages)
 assert len({p.meta['description'] for p in pages.values()})==len(pages)
 public=os.getenv('PUBLIC_INDEXABLE')=='true'
 origin=os.getenv('SITE_URL','http://localhost:4321').rstrip('/')
+base=os.getenv('BASE_PATH','/').rstrip('/')
 for path,p in pages.items():
  assert p.h1==1,(path,'h1 count')
  assert p.canonical.startswith(origin+'/'),(path,'canonical')
@@ -38,7 +39,9 @@ for path,p in pages.items():
  for link in p.links:
   u=urlparse(link)
   if u.scheme or u.netloc:continue
-  target=root / unquote(u.path).lstrip('/') if u.path else path
+  link_path=unquote(u.path)
+  if base and base!='/' and (link_path==base or link_path.startswith(base+'/')):link_path=link_path[len(base):] or '/'
+  target=root / link_path.lstrip('/') if link_path else path
   if u.path.endswith('/'):target=target/'index.html'
   assert target.exists(),(path,'broken link',link)
   if u.fragment:
