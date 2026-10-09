@@ -2,14 +2,15 @@
 import Base from '../../layouts/Base.astro';
 import SearchTerms from '../../components/SearchTerms.astro';
 import {profile, projects} from '../../data/profile';
+import {sitePath} from '../../data/paths';
 const roles = ['customer-intelligence','payments-ml'].map(slug=>projects.find(project=>project.slug===slug)!);
 const independent = projects.filter(project=>project.workplace==='Independent exploration');
 ---
 <Base title="Work" description="Samsung customer intelligence, Amazon payments ML, and two independent exploration projects: LitLens and CVPilot AI.">
 <div class="wrap">
 <header class="page-head"><p class="eyebrow">Work</p><h1>{profile.headline}</h1><p>{profile.intro}</p></header>
-{roles.map(role=><section class="section work-group"><p class="eyebrow">{role.hat}</p><h2>{role.workplace}</h2><p class="role-line">{role.roleTitle} · {role.tenure}</p><article class="work-row"><h3><a href={`/work/${role.slug}/`}>{role.name}</a></h3><p>{role.summary}</p></article></section>)}
-<section class="section work-group"><h2>Independent exploration projects</h2><p class="role-line">My own projects, separate from Samsung and Amazon.</p>{independent.map(project=><article class="work-row"><p class="eyebrow">{project.hat}</p><h3><a href={`/work/${project.slug}/`}>{project.name}</a></h3><p>{project.summary}</p></article>)}</section>
+{roles.map(role=><section class="section work-group"><p class="eyebrow">{role.hat}</p><h2>{role.workplace}</h2><p class="role-line">{role.roleTitle} · {role.tenure}</p><article class="work-row"><h3><a href={sitePath(`/work/${role.slug}/`)}>{role.name}</a></h3><p>{role.summary}</p></article></section>)}
+<section class="section work-group"><h2>Independent exploration projects</h2><p class="role-line">My own projects, separate from Samsung and Amazon.</p>{independent.map(project=><article class="work-row"><p class="eyebrow">{project.hat}</p><h3><a href={sitePath(`/work/${project.slug}/`)}>{project.name}</a></h3><p>{project.summary}</p></article>)}</section>
 <SearchTerms/>
 <section class="section"><h2>People leadership</h2><p style="margin-top:18px">I care about helping people grow into more confident, independent decision-makers.</p><p style="margin-top:18px">At work, that often means mentoring, teaching, and giving people enough context and ownership to make strong decisions without needing constant direction. Outside work, I volunteer my time to design learning paths and help professionals apply AI and data concepts to real problems.</p><p style="margin-top:18px">I also built and led an AI upskilling program for 25 professionals across data engineering, analytics, and product management.</p><p style="margin-top:18px">Teaching is part of how I lead, but it is also part of how I learn. Explaining an idea clearly usually forces me to understand it better myself.</p></section>
 </div>

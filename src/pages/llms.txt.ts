@@ -3,8 +3,9 @@ import {identities, profile, projects} from '../data/profile';
 import {expertiseTerms} from '../data/search-terms';
 import writing from '../data/public-writing.json';
 import {publishedPosts} from '../data/posts';
+import {siteUrl} from '../data/paths';
 export const GET:APIRoute=async({site})=>{
-  const origin=site!.href.replace(/\/$/,'');
+  const origin=siteUrl('/',site).replace(/\/$/,'');
   const posts=await publishedPosts();
   const lines=[
     `# ${profile.name}`,

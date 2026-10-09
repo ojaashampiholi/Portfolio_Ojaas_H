@@ -6,9 +6,9 @@ on:
     - cron: '29 18 * * 0'
   push:
     paths:
-      - 'site/public/resume.pdf'
-      - 'site/content/resume.pdf'
-      - 'site/src/data/linkedin-posts.txt'
+      - 'public/resume.pdf'
+      - 'content/resume.pdf'
+      - 'src/data/linkedin-posts.txt'
   workflow_dispatch:
 
 permissions:
@@ -23,10 +23,8 @@ jobs:
         with:
           python-version: '3.12'
       - name: Refresh public writing
-        working-directory: site
         run: python3 scripts/refresh-writing.py
       - name: Publish a résumé committed under content
-        working-directory: site
         run: |
           if [ -f content/resume.pdf ]; then
             mkdir -p public
@@ -36,7 +34,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add site/src/data/public-writing.json site/public/resume.pdf
+          git add src/data/public-writing.json public/resume.pdf
           if git diff --cached --quiet; then
             echo "No writing or résumé changes."
           else

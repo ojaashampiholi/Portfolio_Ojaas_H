@@ -48,7 +48,7 @@ Publishing workflow, final framework, production domain, public contact, and ver
 User supplied https://www.linkedin.com/in/ojaashampiholi/ but both web retrieval and browser access failed. No professional-history claims have been inferred from that URL. Resume, Medium, Substack, and Cosmic Notebook sources are expected later.
 
 ## Implemented trial and subsequent decisions
-Astro 7.3.5 is installed with TypeScript validation and a lockfile in `site/`. Nine static HTML pages implement the portfolio. Native Markdown article routes, RSS, sitemap, Person/WebSite/BlogPosting JSON-LD, and production-origin/indexability controls are implemented. Public launch and a final domain remain pending.
+Astro 7.3.5 is installed with TypeScript validation and a lockfile at the repository root. Nine static HTML pages implement the portfolio. Native Markdown article routes, RSS, sitemap, Person/WebSite/BlogPosting JSON-LD, and production-origin/indexability controls are implemented. Public launch and a final domain remain pending.
 
 A prebuild Python importer now fetches Medium RSS, Substack RSS, and Cosmic Notebook HTML indexes. It persists a last-successful per-source snapshot, normalizes plain-text metadata and allowed URLs, deduplicates titles, and derives evidence-linked themes over 90 days using explicit rules. No client-side scraping or LLM API dependency. Latest articles and inferred themes are rendered into HTML. No scheduler is configured: refresh happens on build or explicit refresh.
 
