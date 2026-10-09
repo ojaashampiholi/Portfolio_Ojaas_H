@@ -1,0 +1,25 @@
+{
+  "name": "ojaas-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev --host 0.0.0.0",
+    "build": "astro build",
+    "preview": "astro preview --host 0.0.0.0",
+    "check": "astro check",
+    "verify": "python3 scripts/verify.py",
+    "prebuild": "python3 scripts/refresh-writing.py",
+    "refresh:writing": "python3 scripts/refresh-writing.py"
+  },
+  "dependencies": {
+    "@fontsource/courier-prime": "^5.3.0",
+    "@fontsource/nunito": "^5.2.7",
+    "@fontsource/source-sans-3": "^5.2.9",
+    "astro": "7.3.5"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.4",
+    "typescript": "^5.9.3"
+  }
+}

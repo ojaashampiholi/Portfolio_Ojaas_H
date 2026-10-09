@@ -1,0 +1,12 @@
+---
+import {profile} from '../data/profile';
+const mailto=`mailto:${profile.email}?subject=${encodeURIComponent('A note')}`;
+---
+<section class="section contact-section" id="contact" aria-labelledby="contact-title">
+  <p class="eyebrow">In conversation</p>
+  <h2 id="contact-title">Conferences, panels, talks, and university sessions.</h2>
+  <p>I enjoy conversations that begin with a technical question and gradually open up into something broader around how a system is actually built, where it fits into the real world, and what changes once people start using it.</p>
+  <p>For me, the most useful discussions around AI, agents, machine learning, deep learning, and data science sit somewhere between technical depth and practical reality. They should make the ideas clearer, leave people with something they can use, and ideally spark enough curiosity for them to keep questioning and exploring long after the conversation ends.</p>
+  <p>I’m especially drawn to discussions about how these systems can work with people rather than around them, and how we build technology that holds up not only in a demo, but in the messy environments where it is actually meant to help.</p>
+  <p>If you’re putting together a conference session, panel, university conversation, podcast, or workshop somewhere in that space, <a class="prose-cta" href={mailto}>I’d be curious to hear where you’re taking it.</a></p>
+</section>
