@@ -1,0 +1,8 @@
+---
+import { expertiseTerms } from '../data/search-terms';
+---
+<section class="section" id="expertise" aria-labelledby="expertise-title">
+  <div class="section-heading"><div><p class="eyebrow">Find the work</p><h2 id="expertise-title">The systems, in the words people search.</h2></div></div>
+  <p class="section-description">Each phrase links to the project it matches. These are search phrases, not a list of private interests.</p>
+  <ul class="search-terms">{expertiseTerms.map(term => <li><a href={term.href}>{term.query}</a></li>)}</ul>
+</section>

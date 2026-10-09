@@ -1,0 +1,15 @@
+# Backup permalinks. The weekly refresh also reads the public profile activity page.
+# Add one https URL per line when a post should stay listed after it leaves that page.
+https://www.linkedin.com/posts/ojaashampiholi_apple-pay-hit-india-a-decade-late-launch-activity-7511340058743005185-miD-
+https://www.linkedin.com/posts/ojaashampiholi_forecasting-models-are-getting-easier-to-activity-7510975576451772416-z3TA
+https://www.linkedin.com/posts/ojaashampiholi_openai-may-have-just-moved-past-the-chatbot-activity-7510784503486017536-LeIC
+https://www.linkedin.com/posts/ojaashampiholi_a-recommender-that-wins-offline-but-collapses-activity-7510718831166644224-wNJY
+https://www.linkedin.com/posts/ojaashampiholi_one-wrong-tool-call-can-outweigh-1000-successful-activity-7510333844542259200-6gPi
+https://www.linkedin.com/posts/ojaashampiholi_ai-did-26-of-the-work-sounds-impressively-activity-7509250687701155841-Hc_P
+https://www.linkedin.com/posts/ojaashampiholi_ai-can-now-write-code-faster-than-humans-activity-7508529371763245056-naO2
+https://www.linkedin.com/posts/ojaashampiholi_the-model-behaved-strangely-is-not-an-incident-activity-7507797156217528320-mZhL
+https://www.linkedin.com/posts/ojaashampiholi_metas-trillion-parameter-ads-ranker-isn-activity-7506724980961865728-dMtW
+https://www.linkedin.com/posts/ojaashampiholi_seven-slide-diagram-explaining-mmm-closed-activity-7505977544475566080-b3Yy
+https://www.linkedin.com/posts/ojaashampiholi_timesfm-3-isnt-interesting-because-a-transformer-activity-7505622734786371586-Dbdy
+https://www.linkedin.com/posts/ojaashampiholi_google-deepmind-may-have-crossed-ais-most-activity-7504946546459910144-0C67
+https://www.linkedin.com/posts/ojaashampiholi_ai-writes-the-design-doc-ai-writes-the-activity-7492304953819013120-HbmL

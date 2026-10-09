@@ -1,0 +1,28 @@
+---
+import SystemSketch from './SystemSketch.astro';
+import {profile} from '../data/profile';
+---
+<section class="section stance-section" id="stance" aria-labelledby="stance-title">
+  <div class="section-heading"><div><p class="eyebrow">Where to start</p><h2 id="stance-title">What I do, why write, and what I am after.</h2></div></div>
+  <div class="stance">
+    <article>
+      <p class="eyebrow">01 / What I do</p>
+      <SystemSketch slug="customer-intelligence"/>
+      <h3>Customer intelligence, in production.</h3>
+      <p>Propensity scoring, product affinity, and the ML systems that run them. The project pages say what I led, what the team owned, and which figures come from the résumé.</p>
+    </article>
+    <article>
+      <p class="eyebrow">02 / Why reach out</p>
+      <SystemSketch slug="payments-ml"/>
+      <h3>Hiring, talks, and university sessions.</h3>
+      <p>Write if you are hiring for this kind of work, or if you are putting together a conference, panel, talk, or university session on how these systems are built and used.</p>
+      <a class="text-link" href="#contact">The invitation <span aria-hidden="true">↗</span></a>
+    </article>
+    <article>
+      <p class="eyebrow">03 / What I am after</p>
+      <SystemSketch slug="litlens"/>
+      <h3>The systems, and what people should do with them.</h3>
+      <p>{profile.aim}</p>
+    </article>
+  </div>
+</section>

@@ -1,0 +1,11 @@
+---
+import {identities, outside} from '../data/profile';
+const links = [...identities, ...outside];
+---
+<section class="section" id="elsewhere" aria-labelledby="elsewhere-title">
+  <div class="section-heading"><div><p class="eyebrow">Same person</p><h2 id="elsewhere-title">Elsewhere, under the same name.</h2></div></div>
+  <p class="section-description">These are the other public pages for the same person.</p>
+  <ul class="elsewhere">
+    {links.map(item => <li><a rel="me" href={item.url}><strong>{item.name}</strong><span>{item.note}</span></a></li>)}
+  </ul>
+</section>

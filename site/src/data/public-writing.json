@@ -1,0 +1,1102 @@
+{
+  "refreshed": "2026-10-09T14:56:53.731819+00:00",
+  "windowDays": 90,
+  "windowStart": "2026-07-11",
+  "sources": [
+    {
+      "name": "LinkedIn",
+      "status": "fresh",
+      "lastSuccess": "2026-10-09T14:46:01.932066+00:00",
+      "error": null
+    },
+    {
+      "name": "Medium",
+      "status": "fresh",
+      "lastSuccess": "2026-10-09T14:46:01.932066+00:00",
+      "error": null
+    },
+    {
+      "name": "Substack",
+      "status": "fresh",
+      "lastSuccess": "2026-10-09T14:46:01.932066+00:00",
+      "error": null
+    },
+    {
+      "name": "Cosmic Notebook",
+      "status": "fresh",
+      "lastSuccess": "2026-10-09T14:46:01.932066+00:00",
+      "error": null
+    }
+  ],
+  "entries": [
+    {
+      "title": "How to Evaluate a Real-Time Voice AI System Beyond Latency",
+      "url": "https://ojaashampiholi.medium.com/how-to-evaluate-a-real-time-voice-ai-system-beyond-latency-c80aebb435b2",
+      "published": "2026-10-09T13:41:01+00:00",
+      "source": "Medium",
+      "excerpt": "A practical five-layer scorecard for measuring whether a voice agent is fast, conversational, reliable, and actually completes the job.",
+      "tags": [
+        "ai-engineering",
+        "voice-ai",
+        "genai",
+        "machine-learning"
+      ]
+    },
+    {
+      "title": "ALMA finds a fully heavy version of methanol around a young star",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-09_stars_fully-deuterated-methanol/",
+      "published": "2026-10-09T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "ALMA has detected CD₃OD, a rare form of methanol in which every hydrogen atom is replaced by heavier deuterium, around a young star about 1,000 light-years away. Its chemical fingerprint challenges models of how molecules form in the cold clouds that give birth to stars.",
+      "tags": [
+        "Stars & Stellar Evolution"
+      ]
+    },
+    {
+      "title": "Solar Orbiter traced a magnetic switchback back to the Sun",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-08_sun-space-weather_solar-switchback-origin/",
+      "published": "2026-10-08T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Solar Orbiter flew through a large kink in the solar wind's magnetic field and measured the particles inside it. Their chemical fingerprint traced the structure to hot magnetic loops near the Sun, showing how reconnection can launch a switchback before waves and turbulence reshap",
+      "tags": [
+        "Sun & Space Weather"
+      ]
+    },
+    {
+      "title": "ALMA finds a compact seed where a massive star may be forming",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-07_stars_dragon-egg-massive-star-seed/",
+      "published": "2026-10-07T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "ALMA found that the brightest part of a cold cloud nicknamed the dragon egg stays concentrated into one compact peak at scales down to about 175 astronomical units. The result may capture a massive star near the beginning of its formation, but the source could already hide a smal",
+      "tags": [
+        "Stars & Stellar Evolution"
+      ]
+    },
+    {
+      "title": "A planet candidate appears to have formed after its star died",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-06_exoplanets_white-dwarf-second-generation-planet/",
+      "published": "2026-10-06T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "A hot white dwarf is swallowing material rich in elements made late in its former life as a giant star. Together with a 4.4-day brightness cycle, that chemistry points to a giant planet candidate assembled after the star shed its outer layers.",
+      "tags": [
+        "Exoplanets",
+        "Planet Formation"
+      ]
+    },
+    {
+      "title": "The Executive Shuttle",
+      "url": "https://ojaashampiholi.substack.com/p/the-executive-shuttle",
+      "published": "2026-10-05T01:06:26+00:00",
+      "source": "Substack",
+      "excerpt": "The Wrong Shuttle, the Right Secrets, and the Cost of Speaking Up",
+      "tags": []
+    },
+    {
+      "title": "Slow freezing sorts the salts in Enceladus's ocean spray",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-05_solar-system_enceladus-salt-sorting/",
+      "published": "2026-10-05T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Cassini found that salt-rich ice grains from Enceladus do not all carry the same chemical mix. Laboratory experiments now suggest that large ocean droplets freeze slowly inside the moon's vents, separate their salts, and then shatter into distinct grains on the way to space.",
+      "tags": [
+        "Solar System & Planetary Science",
+        "Astrobiology & Habitability"
+      ]
+    },
+    {
+      "title": "Garro 04 is a hidden star cluster that resists a neat label",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-04_stars_garro-04-hidden-cluster/",
+      "published": "2026-10-04T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Infrared observations have revealed Garro 04, a real group of stars hidden in the crowded disk of the Milky Way. At about 5 billion years old, it falls into an awkward gap between the usual open and globular cluster categories.",
+      "tags": [
+        "Stars & Stellar Evolution"
+      ]
+    },
+    {
+      "title": "Webb found an unexpectedly clear sightline through cosmic reionization",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-03_cosmology_clear-reionization-sightline/",
+      "published": "2026-10-03T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Webb detected ultraviolet light from a galaxy at redshift 7.57 that neutral hydrogen should usually block. If the signal comes from the distant galaxy as the evidence suggests, its light crossed a remarkably transparent path through an era when much of intergalactic space was sti",
+      "tags": [
+        "Cosmology & Early Universe",
+        "Galaxies & Galactic Evolution"
+      ]
+    },
+    {
+      "title": "Webb reads the wreckage of planet-sized collisions",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-02_planet-formation_extreme-debris-collisions/",
+      "published": "2026-10-02T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Webb spectra of 21 extreme debris disks show that their dust falls into two mineral groups. The team interprets silica-rich systems as the aftermath of more energetic collisions between roughly Mars-sized bodies, while silica-poor systems point to gentler impacts involving smalle",
+      "tags": [
+        "Planet Formation"
+      ]
+    },
+    {
+      "title": "Apple Pay hit India a decade late. Launch day is easy- Axis Bank cards, no UPI, and big headlines.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_apple-pay-hit-india-a-decade-late-launch-activity-7511340058743005185-miD-",
+      "published": "2026-10-01T08:23:43.954000+00:00",
+      "excerpt": "Apple Pay hit India a decade late. Launch day is easy- Axis Bank cards, no UPI, and big headlines. The real scoreboard is quieter: did the tap work, and more importantly did they tap again next week?",
+      "source": "LinkedIn",
+      "tags": []
+    },
+    {
+      "title": "Webb finds warm dust around a quiet black hole binary",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-01_black-holes_warm-circumbinary-dust/",
+      "published": "2026-10-01T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Webb measured an unexpected mid-infrared glow from the dormant black hole binary XTE J1118+480. The spectrum fits warm dust better than the steady compact jet usually invoked for faint black hole systems, suggesting material may survive in a ring outside the binary.",
+      "tags": [
+        "Black Holes"
+      ]
+    },
+    {
+      "title": "Forecasting models are getting easier to reuse. The business decisions they drive however are getting difficult to reverse.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_forecasting-models-are-getting-easier-to-activity-7510975576451772416-z3TA",
+      "published": "2026-09-30T08:15:24.604000+00:00",
+      "excerpt": "Forecasting models are getting easier to reuse. The business decisions they drive however are getting difficult to reverse. Tabby, an open foundation model for time series, gives teams a reusable start instead of a model trained from scratch for every dataset.",
+      "source": "LinkedIn",
+      "tags": []
+    },
+    {
+      "title": "Webb uncovered a supernova hidden by dust and galaxy light",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-30_stars_dust-hidden-grb-supernova/",
+      "published": "2026-09-30T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "A gamma-ray burst's four-second flash left its source unclear after ground telescopes found no accompanying supernova. Webb separated a faint, dust-reddened supernova from its bright host galaxy, tying the burst to the collapse of a massive star.",
+      "tags": [
+        "Stars & Stellar Evolution"
+      ]
+    },
+    {
+      "title": "OpenAI may have just moved past the chatbot era.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_openai-may-have-just-moved-past-the-chatbot-activity-7510784503486017536-LeIC",
+      "published": "2026-09-29T19:36:09.259000+00:00",
+      "excerpt": "OpenAI may have just moved past the chatbot era. DevDay brought Dots: always-on agents that keep working, alongside ChatGPT Space and GPT-6.1 Sol. But the interesting shift isn’t another smarter model, it’s AI moving from “answer me” to “keep going.”",
+      "source": "LinkedIn",
+      "tags": []
+    },
+    {
+      "title": "A recommender that wins offline but collapses at cold start hasn’t really won.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_a-recommender-that-wins-offline-but-collapses-activity-7510718831166644224-wNJY",
+      "published": "2026-09-29T15:15:11.756000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "A recommender that wins offline but collapses at cold start hasn’t really won. It passed an evaluation whose conditions were too kind. That is why the agenda around RecSys 2026 matters. The conference call goes beyond better algorithms: it explicitly includes evaluation beyond ac",
+      "tags": []
+    },
+    {
+      "title": "The Milky Way's black hole may prune stellar pairs",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-29_black-holes_s-star-binaries/",
+      "published": "2026-09-29T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Young stars close to Sagittarius A* are found in pairs less often than similar stars elsewhere. A new analysis suggests the black hole's tides could erase many of those partnerships after the stars form.",
+      "tags": [
+        "Black Holes",
+        "Stars & Stellar Evolution"
+      ]
+    },
+    {
+      "title": "One wrong tool call can outweigh 1,000 successful benchmark runs, that is why a benchmark score is not a deployment decision.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_one-wrong-tool-call-can-outweigh-1000-successful-activity-7510333844542259200-6gPi",
+      "published": "2026-09-28T13:45:23.793000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "One wrong tool call can outweigh 1,000 successful benchmark runs, that is why a benchmark score is not a deployment decision. A benchmark gives you evidence of what an AI agent does under test conditions. It does not decide what it can read, write, spend or delete when those cond",
+      "tags": []
+    },
+    {
+      "title": "Methane glows from a six-Jupiter-mass brown dwarf",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-28_stars_brown-dwarf-methane-emission/",
+      "published": "2026-09-28T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Webb detected two infrared emission lines from methane in a young brown dwarf weighing about six Jupiters. Methane usually leaves absorption features in cool atmospheres, so the glow points to unusual heating or radiation high above this object's visible surface.",
+      "tags": [
+        "Stars & Stellar Evolution"
+      ]
+    },
+    {
+      "title": "A sub-Neptune circles its red dwarf backwards",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-27_exoplanets_gj-3090-b-retrograde/",
+      "published": "2026-09-27T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "GJ 3090 b is the first planet found on a retrograde orbit around an M-dwarf star. Its strongly tilted path is hard to explain with the usual massive-companion scenarios, pointing instead toward a planet-forming disk that may have started out misaligned.",
+      "tags": [
+        "Exoplanets",
+        "Planet Formation"
+      ]
+    },
+    {
+      "title": "One Martian rock unit records three separate water episodes",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-26_solar-system_mars-margin-water-systems/",
+      "published": "2026-09-26T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Perseverance found that an olivine-rich rock unit beside Jezero Crater's ancient lake records at least three distinct encounters with water. The sequence includes carbon dioxide-rich groundwater, lake-related alteration, and a later pulse of hot underground fluid.",
+      "tags": [
+        "Solar System & Planetary Science",
+        "Astrobiology & Habitability"
+      ]
+    },
+    {
+      "title": "The Seating Plan",
+      "url": "https://ojaashampiholi.substack.com/p/the-seating-plan",
+      "published": "2026-09-25T22:43:10+00:00",
+      "source": "Substack",
+      "excerpt": "At a charity gala built on careful appearances, one man follows the wrong instructions.",
+      "tags": []
+    },
+    {
+      "title": "“AI did 26% of the work” sounds impressively precise.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_ai-did-26-of-the-work-sounds-impressively-activity-7509250687701155841-Hc_P",
+      "published": "2026-09-25T14:01:19.077000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "“AI did 26% of the work” sounds impressively precise. Until you ask what did means. I’ve become increasingly suspicious of phrases like: “the agent owns it”, “AI did most of it” and “we automated that”. They sound useful. Sometimes they mean “Claude wrote a draft and I spent Tues",
+      "tags": []
+    },
+    {
+      "title": "A calibration test sharpens the case for twisted ancient light",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-25_cosmology_cosmic-birefringence-calibration/",
+      "published": "2026-09-25T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "A new analysis checked whether tiny differences among eight Planck detector maps could imitate a possible rotation in the cosmic microwave background. The independent calibration method found no significant mismatch, strengthening the measurement foundation without independently ",
+      "tags": [
+        "Cosmology & Early Universe",
+        "Gravity & Fundamental Physics"
+      ]
+    },
+    {
+      "title": "A pulsar's X-ray tail stretches for 42 light-years",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-24_stars_pulsar-xray-tail/",
+      "published": "2026-09-24T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "A faint X-ray tail behind pulsar PSR J1740+1000 reaches about 42 light-years, far beyond the portion seen before. Its alignment with ultrahigh-energy gamma rays suggests that particles can stream in one direction across interstellar space instead of spreading evenly.",
+      "tags": [
+        "Stars & Stellar Evolution"
+      ]
+    },
+    {
+      "title": "AI can now write code faster than humans can review it.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_ai-can-now-write-code-faster-than-humans-activity-7508529371763245056-naO2",
+      "published": "2026-09-23T14:15:03.957000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "AI can now write code faster than humans can review it. Excellent, we automated ourselves into a new queue. GitHub’s recent Copilot review updates point to where this is going: severity, re-review, validation, resolved findings. Writing the code is becoming the cheap part, provin",
+      "tags": []
+    },
+    {
+      "title": "Rubin finds seven almost-dark galaxies near Virgo's M49",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-23_galaxies_rubin-almost-dark-virgo/",
+      "published": "2026-09-23T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "In Rubin LSST Data Preview 2, a team led by Minh Ngoc Le reports seven almost-dark galaxies around M49 in the Virgo Cluster. Their g-band central surface brightnesses run from about 26.9 to 28.5 mag per square arcsecond, with half-light radii of about 0.6 to 4.6 kpc and stellar m",
+      "tags": [
+        "Galaxies & Galactic Evolution"
+      ]
+    },
+    {
+      "title": "AI Incident Reports Need to Separate Evidence From Explanation",
+      "url": "https://ojaashampiholi.medium.com/ai-incident-reports-need-to-separate-evidence-from-explanation-f14c9632d286",
+      "published": "2026-09-22T13:11:01+00:00",
+      "source": "Medium",
+      "excerpt": "A practical operating model for documenting AI incidents without turning incomplete evidence into a confident story.",
+      "tags": [
+        "ai-safety",
+        "ai-governance",
+        "ai-incidents",
+        "ai-agent",
+        "genai"
+      ]
+    },
+    {
+      "title": "Radio bursts pin a magnetic field on Beta Pictoris b",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-22_exoplanets_beta-pic-b-radio-field/",
+      "published": "2026-09-22T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "MeerKAT has localized auroral radio bursts to the giant planet Beta Pictoris b, about 20 parsecs away. The emission reaches 3.5 GHz and implies a magnetic field of at least about 1.25 kilogauss, the first direct field-strength measurement for an exoplanet.",
+      "tags": [
+        "Exoplanets"
+      ]
+    },
+    {
+      "title": "“The model behaved strangely” is not an incident report.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_the-model-behaved-strangely-is-not-an-incident-activity-7507797156217528320-mZhL",
+      "published": "2026-09-21T13:45:30.112000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "“The model behaved strangely” is not an incident report. As AI systems get more autonomy, I think incident reporting needs to become much more rigorous. A useful report should let another team reconstruct what happened without inheriting your assumptions about why it happened. I’",
+      "tags": []
+    },
+    {
+      "title": "Black holes big and small may launch jets by the same rule",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-21_black-holes_universal-jet-rule/",
+      "published": "2026-09-21T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "A study of stars torn apart by giant black holes finds jets switching on at two points in the feeding cycle: once at very high rates, and again near 2 percent of the Eddington limit. Stellar-mass black holes in the Milky Way already change state near that same 2 percent mark.",
+      "tags": [
+        "Black Holes"
+      ]
+    },
+    {
+      "title": "Supernova bubbles may keep Andromeda's gas in motion",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-20_galaxies_andromeda-supernova-turbulence/",
+      "published": "2026-09-20T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Using China's FAST radio telescope and the Karl G. Jansky Very Large Array, a Tsinghua-led team mapped 118 expanding superbubbles in Andromeda. The energy those bubbles deliver lines up with the energy needed to keep the galaxy's neutral hydrogen turbulent, in magnitude and acros",
+      "tags": [
+        "Galaxies & Galactic Evolution"
+      ]
+    },
+    {
+      "title": "The Solar System sorted its building blocks from the start",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-19_solar-system_planetesimal-sorting/",
+      "published": "2026-09-19T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Meteorite chemistry, reported in a Nature Astronomy paper dated 18 September 2026, says the Solar System sorted its raw materials within the first million years. The earliest small bodies were already rich in heat-processed rocky beads and held much less fine, ice-rich dust than ",
+      "tags": [
+        "Solar System & Planetary Science",
+        "Planet Formation"
+      ]
+    },
+    {
+      "title": "Meta’s trillion-parameter ads ranker isn’t interesting merely because it is enormous.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_metas-trillion-parameter-ads-ranker-isn-activity-7506724980961865728-dMtW",
+      "published": "2026-09-18T14:45:03.600000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "Meta’s trillion-parameter ads ranker isn’t interesting merely because it is enormous. What matters is how much of the surrounding system had to change to make that capacity usable. Adaptive Ranking Model computes user context once per request, reuses it across candidate ads and s",
+      "tags": []
+    },
+    {
+      "title": "The youngest known planet is still forming in its disk",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-18_exoplanets_elias-2-24-b-youngest-planet/",
+      "published": "2026-09-18T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Astronomers have confirmed Elias 2-24 b, a planet about Jupiter's mass and less than a million years old, still inside the disk around its star, 450 light-years away. It is the youngest known planet. The previous record holders, four worlds at PDS 70 and WISPIT 2, are all more th",
+      "tags": [
+        "Exoplanets",
+        "Planet Formation"
+      ]
+    },
+    {
+      "title": "A simulation grows early black holes from heavy seeds",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-17_black-holes_little-red-dots-heavy-seeds/",
+      "published": "2026-09-17T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Webb keeps finding giant black holes, and compact red sources called little red dots, at times when a stellar-mass seed growing at a modest rate should not yet be huge. A Nature simulation grows heavy seeds from unusually massive first stars, lets them feed furiously for a short ",
+      "tags": [
+        "Black Holes",
+        "Cosmology & Early Universe"
+      ]
+    },
+    {
+      "title": "I’ve seen marketing measurement methods disagree.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_seven-slide-diagram-explaining-mmm-closed-activity-7505977544475566080-b3Yy",
+      "published": "2026-09-16T13:15:00.864000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "I’ve seen marketing measurement methods disagree. Sometimes the conflict wasn’t in the model. It started in the definitions, the same channel received different credit because outcome windows and metric scopes varied across teams. That is a measurement-system problem. Google’s la",
+      "tags": []
+    },
+    {
+      "title": "Webb finds brown dwarfs only about twice Jupiter's mass",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-16_stars_tiny-brown-dwarfs/",
+      "published": "2026-09-16T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "In the star-forming region IC 348, about 1,000 light-years away in Perseus, Webb has found brown dwarfs with masses down to about twice Jupiter's, or 0.19 percent of the Sun's mass. They are the least massive brown dwarfs known, lighter than star-formation models predicted, and o",
+      "tags": [
+        "Stars & Stellar Evolution"
+      ]
+    },
+    {
+      "title": "TimesFM-3 isn’t interesting because a transformer can forecast but because forecasting may be moving from “train a model for this dataset” to “bring the dataset to a pretrained model.”",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_timesfm-3-isnt-interesting-because-a-transformer-activity-7505622734786371586-Dbdy",
+      "published": "2026-09-15T13:45:07.631000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "TimesFM-3 isn’t interesting because a transformer can forecast but because forecasting may be moving from “train a model for this dataset” to “bring the dataset to a pretrained model.” Teams still choose ARIMA or VAR, engineer features for a GBM, or train an LSTM then repeat acro",
+      "tags": []
+    },
+    {
+      "title": "Declared Value",
+      "url": "https://ojaashampiholi.substack.com/p/declared-value",
+      "published": "2026-09-15T12:17:42+00:00",
+      "source": "Substack",
+      "excerpt": "When Empty Containers Carry Very Real Money",
+      "tags": []
+    },
+    {
+      "title": "Feeding black holes may help build rings of new stars",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-15_black-holes_star-forming-rings/",
+      "published": "2026-09-15T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "MUSE maps of nine nearby galaxies show the same layout around their feeding central black holes: rings or arcs of new stars, cones of black-hole radiation, and fast shocks in the gas. The pattern suggests these black holes sometimes help compress gas into stars, alongside the bet",
+      "tags": [
+        "Black Holes"
+      ]
+    },
+    {
+      "title": "NASA and IBM released an open AI model trained on the Moon",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-14_solar-system_lunar-ai-model/",
+      "published": "2026-09-14T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "NASA and IBM have released an open-source AI model trained mostly on 17 years of Lunar Reconnaissance Orbiter images, plus data from other Moon missions. Researchers can adapt it to map craters, spot odd volcanic patches, and estimate where polar ice might stay stable, using far ",
+      "tags": [
+        "Solar System & Planetary Science"
+      ]
+    },
+    {
+      "title": "Google DeepMind may have crossed AI’s most consequential threshold, recursive self-improvement (RSI) but there’s no public evidence yet; as someone building self-auditing and correcting workflows, I want to study this closely: what evidence would convince you?",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_google-deepmind-may-have-crossed-ais-most-activity-7504946546459910144-0C67",
+      "published": "2026-09-13T16:58:11.821000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "Google DeepMind may have crossed AI’s most consequential threshold, recursive self-improvement (RSI) but there’s no public evidence yet; as someone building self-auditing and correcting workflows, I want to study this closely: what evidence would convince you?",
+      "tags": []
+    },
+    {
+      "title": "Around half of neutron stars may form as magnetars",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-13_stars-magnetars-neutron-stars/",
+      "published": "2026-09-13T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "A Nature Astronomy study finds that magnetars, neutron stars with extremely strong magnetic fields, could make up around half the neutron star population. The figure comes from a simulation of how these remnants evolve, not from a fresh headcount. If it holds, magnetars are commo",
+      "tags": [
+        "Stars & Stellar Evolution"
+      ]
+    },
+    {
+      "title": "A proto-supercluster caught while the universe was 2.1 billion years old",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-12_cosmology_proto-supercluster-cosmos-z3-1-a/",
+      "published": "2026-09-12T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "COSMOS-z3.1-A is a proto-supercluster, a clumpy gathering of galaxies that has not finished merging, seen when the universe was 2.1 billion years old. ODIN imaging and follow-up spectra from DESI, Gemini South, and Keck place it earlier than the proto-supercluster Hyperion. Its m",
+      "tags": [
+        "Cosmology & Early Universe"
+      ]
+    },
+    {
+      "title": "Tiny worlds beyond Neptune still carry the colors of their birth",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-11_solar-system_tiny-worlds-beyond-neptune/",
+      "published": "2026-09-11T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Hubble and Webb together found 27 previously unknown worlds beyond Neptune, some only about 5 kilometres across, in the deepest survey of these bodies so far. Their surface colors match the relations seen in much larger objects, in both the cold and the hot dynamical families. Th",
+      "tags": [
+        "Solar System & Planetary Science"
+      ]
+    },
+    {
+      "title": "Chandra's archive hid 84 ultralow-energy sources in six galaxies",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-10_stars-stellar-evolution_chandra-hypersoft-sources/",
+      "published": "2026-09-10T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "A search of the public Chandra archive found 84 hypersoft X-ray sources in six galaxies, including the spirals M31 and M101. They show up at the lowest X-ray energies and disappear at higher ones, with most of their power in ultraviolet light that gas between the stars absorbs. T",
+      "tags": [
+        "Stars & Stellar Evolution"
+      ]
+    },
+    {
+      "title": "Fast radio bursts trace ordinary matter the galaxies have pushed around",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-09_cosmology_fast-radio-bursts-hidden-matter/",
+      "published": "2026-09-09T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "About 100 fast radio bursts, millisecond radio flashes from distant galaxies, carry a delay that counts electrons along the path. A Nature Astronomy analysis uses that delay to measure how galactic feedback smooths ordinary matter around and between galaxies. The smoothing is rea",
+      "tags": [
+        "Cosmology & Early Universe"
+      ]
+    },
+    {
+      "title": "Two massive stars still forming look captured, not born as a pair",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-08_stars-stellar-evolution_massive-binary-capture/",
+      "published": "2026-09-08T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "ALMA, the VLA, JWST, and the VLT mapped IRAS 07299-1651, two massive protostars still growing inside a molecular cloud. Nearly eight years of positions show an elongated orbit, and the disks around the two stars tilt relative to each other and to that orbit. A shared birth in one",
+      "tags": [
+        "Stars & Stellar Evolution"
+      ]
+    },
+    {
+      "title": "The River That Remembers",
+      "url": "https://ojaashampiholi.substack.com/p/the-river-that-remembers",
+      "published": "2026-09-07T06:11:53+00:00",
+      "source": "Substack",
+      "excerpt": "When Ancient Warnings Outlast Modern Certainty",
+      "tags": []
+    },
+    {
+      "title": "Moving sodium in PDS 70 may be comets carrying water inward",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-07_planet-formation_pds70-exocomets-water/",
+      "published": "2026-09-07T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "PDS 70, a planetary system just over five million years old and about 370 light-years away, already holds at least two gas giants. Lund University astronomers report sodium gas that appears and disappears in front of the star, a pattern consistent with icy bodies heating up and v",
+      "tags": [
+        "Planet Formation"
+      ]
+    },
+    {
+      "title": "One odd event in a xenon tank, and nobody is calling it dark matter",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-06_fundamental-physics_lz-dark-matter-candidate/",
+      "published": "2026-09-06T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "LUX-ZEPLIN recorded one particle interaction that known backgrounds struggle to explain. The detector holds 10 tonnes of liquid xenon nearly a mile underground in South Dakota, and this search used 220 live days from March 2023 through April 2024. The outlier is a 2.6 sigma hint,",
+      "tags": [
+        "Gravity & Fundamental Physics"
+      ]
+    },
+    {
+      "title": "The universe is making fewer stars, and the hydrogen is still there",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-05_galaxy-evolution_star-formation-hydrogen/",
+      "published": "2026-09-05T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "FAST and DESI, used together on about 2.5 million galaxies across nearly one-third of the sky, find that the cosmic star formation rate was 2.46 times higher 4.5 billion years ago than it is today. The Chinese Academy of Sciences summary rounds that factor to about 2.5. Neutral a",
+      "tags": [
+        "Galaxies & Galactic Evolution"
+      ]
+    },
+    {
+      "title": "Hubble watches a ten-sided wave grow at Saturn's south pole",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-04_solar-system_saturn-south-pole-decagon/",
+      "published": "2026-09-04T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Hubble and ground-based images show a giant ten-sided wave around Saturn's south pole, the first large regular jet polygon in the southern hemisphere. Faint signs are in data from 2023 and 2024. By 2025 the shape was much clearer. The northern hexagon has lasted more than 40 year",
+      "tags": [
+        "Solar System & Planetary Science"
+      ]
+    },
+    {
+      "title": "From APIs to Actuators: How to Engineer AI Agents for the Physical World",
+      "url": "https://ojaashampiholi.medium.com/from-apis-to-actuators-how-to-engineer-ai-agents-for-the-physical-world-2d57a5cf19cf",
+      "published": "2026-09-03T11:06:00+00:00",
+      "source": "Medium",
+      "excerpt": "AI agents are steadily moving beyond software with time. For the past few years, most Agentic systems have operated in environments built…",
+      "tags": [
+        "robotics",
+        "ai-robot",
+        "robotics-automation",
+        "llm",
+        "agentic-ai"
+      ]
+    },
+    {
+      "title": "Faint stars may hide extra mass in early massive galaxies",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-03_galaxy-evolution_hidden-mass-early-galaxies/",
+      "published": "2026-09-03T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "JWST and Very Large Telescope spectra of nine massive quiescent galaxies at a redshift of about 0.7 show excess low-mass stars in the most massive systems. The oldest, with stars formed at a redshift above 5, has the most bottom-heavy initial mass function. If similar mixes appli",
+      "tags": [
+        "Galaxies & Galactic Evolution",
+        "Stars & Stellar Evolution"
+      ]
+    },
+    {
+      "title": "JWST watches planet-forming disks lose their gas",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-02_planet-formation_jwst-disk-winds/",
+      "published": "2026-09-02T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Archival JWST spectra of 72 young Sun-like stars show gas leaving their planet-forming disks. Extended molecular hydrogen and ionized neon appear in 66 of 72 disks, conical hydrogen winds in 46, and fast neon jets in 40. Young, strongly accreting systems favor jets and mixed wind",
+      "tags": [
+        "Planet Formation"
+      ]
+    },
+    {
+      "title": "Leadership Potential",
+      "url": "https://ojaashampiholi.substack.com/p/leadership-potential",
+      "published": "2026-09-01T09:52:20+00:00",
+      "source": "Substack",
+      "excerpt": "A Very Professional Misunderstanding About Merit",
+      "tags": []
+    },
+    {
+      "title": "MoM-BH*-1 looks like a star powered by a buried black hole",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-01_cosmic-dawn_black-hole-star-mom-bh-1/",
+      "published": "2026-09-01T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "JWST's MoM survey found MoM-BH*-1, an extremely red object seen about 660 million years after the Big Bang. It shows the deepest Balmer break yet, almost no metals, and about 100 billion times more energy than fusion in a known star can produce. The best-matching model is a black",
+      "tags": [
+        "Black Holes",
+        "Cosmology & Early Universe"
+      ]
+    },
+    {
+      "title": "Roman launches toward L2 to survey the dark universe",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-08-31_space-observatory_roman-launches-to-map-the-dark-universe/",
+      "published": "2026-08-31T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "NASA's Nancy Grace Roman Space Telescope launched on 30 August 2026 aboard a Falcon Heavy and is traveling to the Sun-Earth L2 point, about one million miles from Earth. Roman pairs a wide field with sharp infrared imaging to survey dark energy, dark matter, and exoplanets. Commi",
+      "tags": [
+        "Telescopes & Observatories",
+        "Cosmology & Early Universe",
+        "Exoplanets"
+      ]
+    },
+    {
+      "title": "Earth may have slipped outside the Sun's protective bubble",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/earth-heliosphere/",
+      "published": "2026-08-30T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Simulations from NASA's SHIELD center follow the Sun through the Milky Way and find dense interstellar clouds at about 2 to 3, 6 to 7, and 13 to 14 million years ago. Each time, the heliosphere, the bubble blown by the solar wind, may have shrunk inside Earth's orbit. Elements co",
+      "tags": [
+        "Sun & Space Weather",
+        "Astrobiology & Habitability"
+      ]
+    },
+    {
+      "title": "The Language AI Agents Speak",
+      "url": "https://ojaashampiholi.medium.com/the-language-ai-agents-speak-9055d36ecb21",
+      "published": "2026-08-29T11:06:01+00:00",
+      "source": "Medium",
+      "excerpt": "Part I: Why Communication and Not Intelligence will Shape the Next Generation of AI Systems",
+      "tags": [
+        "technology",
+        "communication",
+        "generative-ai-tools",
+        "agentic-ai",
+        "machine-learning"
+      ]
+    },
+    {
+      "title": "Hubble identifies the Milky Way's earliest confirmed major merger",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/milky-way-earliest-major-merger/",
+      "published": "2026-08-29T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Hubble ages and metallicities for 39 globular clusters in the inner Milky Way point to a dwarf galaxy, LKH, that merged with the Galaxy about 11.8 billion years ago. NASA's account puts that dwarf at roughly 500 million solar masses in stars and says the result pushes the confirm",
+      "tags": [
+        "Galaxies & Galactic Evolution"
+      ]
+    },
+    {
+      "title": "S301 may let astronomers measure the spin of Sagittarius A*",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/s301-sagittarius-a-star-spin/",
+      "published": "2026-08-28T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "S301 is the fastest known star in the Milky Way. At its closest approach to Sagittarius A*, it moves at about 25,000 kilometres per second, a bit over 8 percent of light speed, on an 8.7-year orbit that comes in near Saturn's distance. ESO reported the star on 19 August 2026. Lat",
+      "tags": [
+        "Black Holes",
+        "Gravity & Fundamental Physics"
+      ]
+    },
+    {
+      "title": "The Chancellor’s Daughter",
+      "url": "https://ojaashampiholi.substack.com/p/the-chancellors-daughter",
+      "published": "2026-08-25T14:41:47+00:00",
+      "source": "Substack",
+      "excerpt": "A Funeral, a Missing Notebook, and the Quiet Price of Power",
+      "tags": []
+    },
+    {
+      "title": "The Passenger Who Never Boarded",
+      "url": "https://ojaashampiholi.substack.com/p/the-passenger-who-never-boarded",
+      "published": "2026-08-16T04:51:33+00:00",
+      "source": "Substack",
+      "excerpt": "A fast-paced airport conspiracy thriller about a former military investigator, a dead woman with no arrival record, and a covert network moving people into Australia under identities designed to leave no trace of how they entered.",
+      "tags": []
+    },
+    {
+      "title": "The Wife in Room 308",
+      "url": "https://ojaashampiholi.substack.com/p/the-wife-in-room-308",
+      "published": "2026-08-14T09:34:14+00:00",
+      "source": "Substack",
+      "excerpt": "The Truth Was Never Hers to Know",
+      "tags": []
+    },
+    {
+      "title": "“AI writes the design doc, AI writes the code, AI writes the unit tests and integration tests.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_ai-writes-the-design-doc-ai-writes-the-activity-7492304953819013120-HbmL",
+      "published": "2026-08-09T19:45:01.245000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "“AI writes the design doc, AI writes the code, AI writes the unit tests and integration tests. AI also reviews the PR. So when does the software engineer come into the loop?” I got this question in my DMs today, and I think it points to a bigger shift in AI coding and software en",
+      "tags": []
+    },
+    {
+      "title": "The Impossible Art of Teaching Machines to Hear Like Humans",
+      "url": "https://ojaashampiholi.medium.com/the-impossible-art-of-teaching-machines-to-hear-like-humans-2456a05f7b0f",
+      "published": "2025-07-27T18:30:47+00:00",
+      "source": "Medium",
+      "excerpt": "Picture this: you’re at a loud dinner party. The kind where four people are talking over each other, someone’s dog is barking at nothing…",
+      "tags": [
+        "machine-learning",
+        "artificial-intelligence",
+        "linguistics",
+        "audio-processing",
+        "data-science"
+      ]
+    },
+    {
+      "title": "Forecasting 101: A Beginner’s Guide",
+      "url": "https://ojaashampiholi.medium.com/forecasting-101-a-beginners-guide-ed0e1c5dacf2",
+      "published": "2025-03-08T12:18:43+00:00",
+      "source": "Medium",
+      "excerpt": "Forecasting is a crucial tool in business and finance, enabling organizations to anticipate and prepare for future trends and changes in…",
+      "tags": [
+        "machine-learning",
+        "time-series-forecasting",
+        "finance-forecasting",
+        "data-science"
+      ]
+    },
+    {
+      "title": "Simplifying Software Debugging: A Closer Look at Probabilistic Delta Debugging",
+      "url": "https://ojaashampiholi.medium.com/simplifying-software-debugging-a-closer-look-at-probabilistic-delta-debugging-2bc25fed458e",
+      "published": "2024-08-12T17:52:41+00:00",
+      "source": "Medium",
+      "excerpt": "",
+      "tags": [
+        "artificial-intelligence",
+        "code-debugging",
+        "software-development",
+        "machine-learning",
+        "bayesian-statistics"
+      ]
+    },
+    {
+      "title": "Unleashing the Power of Raspberry Pi: Building Your Own Home Server",
+      "url": "https://ojaashampiholi.medium.com/unleashing-the-power-of-raspberry-pi-building-your-own-home-server-86d717f00213",
+      "published": "2024-05-20T03:52:04+00:00",
+      "source": "Medium",
+      "excerpt": "",
+      "tags": [
+        "open-source",
+        "home-server",
+        "iot",
+        "raspberry-pi"
+      ]
+    },
+    {
+      "title": "PySpark Analysis on Airport Data",
+      "url": "https://medium.com/data-science/pyspark-analysis-on-airport-data-6d10aaf9cbb1",
+      "published": "2021-05-16T22:48:40+00:00",
+      "source": "Medium",
+      "excerpt": "",
+      "tags": [
+        "spark-sql",
+        "data-analysis",
+        "pyspark",
+        "big-data",
+        "google-colab"
+      ]
+    },
+    {
+      "title": "OPTICAL MUSIC RECOGNITION",
+      "url": "https://ojaashampiholi.medium.com/optical-music-recognition-6257a9bcca52",
+      "published": "2021-04-26T16:52:10+00:00",
+      "source": "Medium",
+      "excerpt": "",
+      "tags": [
+        "hough-transform",
+        "template-matching",
+        "data-science",
+        "computer-vision",
+        "music-recognition"
+      ]
+    }
+  ],
+  "shown": {
+    "LinkedIn": {
+      "count": 4,
+      "windowDays": 180,
+      "entries": [
+        {
+          "title": "Apple Pay hit India a decade late. Launch day is easy- Axis Bank cards, no UPI, and big headlines.",
+          "url": "https://www.linkedin.com/posts/ojaashampiholi_apple-pay-hit-india-a-decade-late-launch-activity-7511340058743005185-miD-",
+          "published": "2026-10-01T08:23:43.954000+00:00",
+          "excerpt": "Apple Pay hit India a decade late. Launch day is easy- Axis Bank cards, no UPI, and big headlines. The real scoreboard is quieter: did the tap work, and more importantly did they tap again next week?",
+          "source": "LinkedIn",
+          "tags": []
+        },
+        {
+          "title": "Forecasting models are getting easier to reuse. The business decisions they drive however are getting difficult to reverse.",
+          "url": "https://www.linkedin.com/posts/ojaashampiholi_forecasting-models-are-getting-easier-to-activity-7510975576451772416-z3TA",
+          "published": "2026-09-30T08:15:24.604000+00:00",
+          "excerpt": "Forecasting models are getting easier to reuse. The business decisions they drive however are getting difficult to reverse. Tabby, an open foundation model for time series, gives teams a reusable start instead of a model trained from scratch for every dataset.",
+          "source": "LinkedIn",
+          "tags": []
+        },
+        {
+          "title": "OpenAI may have just moved past the chatbot era.",
+          "url": "https://www.linkedin.com/posts/ojaashampiholi_openai-may-have-just-moved-past-the-chatbot-activity-7510784503486017536-LeIC",
+          "published": "2026-09-29T19:36:09.259000+00:00",
+          "excerpt": "OpenAI may have just moved past the chatbot era. DevDay brought Dots: always-on agents that keep working, alongside ChatGPT Space and GPT-6.1 Sol. But the interesting shift isn’t another smarter model, it’s AI moving from “answer me” to “keep going.”",
+          "source": "LinkedIn",
+          "tags": []
+        },
+        {
+          "title": "A recommender that wins offline but collapses at cold start hasn’t really won.",
+          "url": "https://www.linkedin.com/posts/ojaashampiholi_a-recommender-that-wins-offline-but-collapses-activity-7510718831166644224-wNJY",
+          "published": "2026-09-29T15:15:11.756000+00:00",
+          "source": "LinkedIn",
+          "excerpt": "A recommender that wins offline but collapses at cold start hasn’t really won. It passed an evaluation whose conditions were too kind. That is why the agenda around RecSys 2026 matters. The conference call goes beyond better algorithms: it explicitly includes evaluation beyond ac",
+          "tags": []
+        }
+      ]
+    },
+    "Medium": {
+      "count": 4,
+      "windowDays": 180,
+      "entries": [
+        {
+          "title": "How to Evaluate a Real-Time Voice AI System Beyond Latency",
+          "url": "https://ojaashampiholi.medium.com/how-to-evaluate-a-real-time-voice-ai-system-beyond-latency-c80aebb435b2",
+          "published": "2026-10-09T13:41:01+00:00",
+          "source": "Medium",
+          "excerpt": "A practical five-layer scorecard for measuring whether a voice agent is fast, conversational, reliable, and actually completes the job.",
+          "tags": [
+            "ai-engineering",
+            "voice-ai",
+            "genai",
+            "machine-learning"
+          ]
+        },
+        {
+          "title": "AI Incident Reports Need to Separate Evidence From Explanation",
+          "url": "https://ojaashampiholi.medium.com/ai-incident-reports-need-to-separate-evidence-from-explanation-f14c9632d286",
+          "published": "2026-09-22T13:11:01+00:00",
+          "source": "Medium",
+          "excerpt": "A practical operating model for documenting AI incidents without turning incomplete evidence into a confident story.",
+          "tags": [
+            "ai-safety",
+            "ai-governance",
+            "ai-incidents",
+            "ai-agent",
+            "genai"
+          ]
+        },
+        {
+          "title": "From APIs to Actuators: How to Engineer AI Agents for the Physical World",
+          "url": "https://ojaashampiholi.medium.com/from-apis-to-actuators-how-to-engineer-ai-agents-for-the-physical-world-2d57a5cf19cf",
+          "published": "2026-09-03T11:06:00+00:00",
+          "source": "Medium",
+          "excerpt": "AI agents are steadily moving beyond software with time. For the past few years, most Agentic systems have operated in environments built…",
+          "tags": [
+            "robotics",
+            "ai-robot",
+            "robotics-automation",
+            "llm",
+            "agentic-ai"
+          ]
+        },
+        {
+          "title": "The Language AI Agents Speak",
+          "url": "https://ojaashampiholi.medium.com/the-language-ai-agents-speak-9055d36ecb21",
+          "published": "2026-08-29T11:06:01+00:00",
+          "source": "Medium",
+          "excerpt": "Part I: Why Communication and Not Intelligence will Shape the Next Generation of AI Systems",
+          "tags": [
+            "technology",
+            "communication",
+            "generative-ai-tools",
+            "agentic-ai",
+            "machine-learning"
+          ]
+        }
+      ]
+    },
+    "Substack": {
+      "count": 4,
+      "windowDays": null,
+      "entries": [
+        {
+          "title": "The Executive Shuttle",
+          "url": "https://ojaashampiholi.substack.com/p/the-executive-shuttle",
+          "published": "2026-10-05T01:06:26+00:00",
+          "source": "Substack",
+          "excerpt": "The Wrong Shuttle, the Right Secrets, and the Cost of Speaking Up",
+          "tags": []
+        },
+        {
+          "title": "The Seating Plan",
+          "url": "https://ojaashampiholi.substack.com/p/the-seating-plan",
+          "published": "2026-09-25T22:43:10+00:00",
+          "source": "Substack",
+          "excerpt": "At a charity gala built on careful appearances, one man follows the wrong instructions.",
+          "tags": []
+        },
+        {
+          "title": "Declared Value",
+          "url": "https://ojaashampiholi.substack.com/p/declared-value",
+          "published": "2026-09-15T12:17:42+00:00",
+          "source": "Substack",
+          "excerpt": "When Empty Containers Carry Very Real Money",
+          "tags": []
+        },
+        {
+          "title": "The River That Remembers",
+          "url": "https://ojaashampiholi.substack.com/p/the-river-that-remembers",
+          "published": "2026-09-07T06:11:53+00:00",
+          "source": "Substack",
+          "excerpt": "When Ancient Warnings Outlast Modern Certainty",
+          "tags": []
+        }
+      ]
+    },
+    "Cosmic Notebook": {
+      "count": 4,
+      "windowDays": null,
+      "entries": [
+        {
+          "title": "ALMA finds a fully heavy version of methanol around a young star",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-09_stars_fully-deuterated-methanol/",
+          "published": "2026-10-09T00:00:00+00:00",
+          "source": "Cosmic Notebook",
+          "excerpt": "ALMA has detected CD₃OD, a rare form of methanol in which every hydrogen atom is replaced by heavier deuterium, around a young star about 1,000 light-years away. Its chemical fingerprint challenges models of how molecules form in the cold clouds that give birth to stars.",
+          "tags": [
+            "Stars & Stellar Evolution"
+          ]
+        },
+        {
+          "title": "Solar Orbiter traced a magnetic switchback back to the Sun",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-08_sun-space-weather_solar-switchback-origin/",
+          "published": "2026-10-08T00:00:00+00:00",
+          "source": "Cosmic Notebook",
+          "excerpt": "Solar Orbiter flew through a large kink in the solar wind's magnetic field and measured the particles inside it. Their chemical fingerprint traced the structure to hot magnetic loops near the Sun, showing how reconnection can launch a switchback before waves and turbulence reshap",
+          "tags": [
+            "Sun & Space Weather"
+          ]
+        },
+        {
+          "title": "ALMA finds a compact seed where a massive star may be forming",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-07_stars_dragon-egg-massive-star-seed/",
+          "published": "2026-10-07T00:00:00+00:00",
+          "source": "Cosmic Notebook",
+          "excerpt": "ALMA found that the brightest part of a cold cloud nicknamed the dragon egg stays concentrated into one compact peak at scales down to about 175 astronomical units. The result may capture a massive star near the beginning of its formation, but the source could already hide a smal",
+          "tags": [
+            "Stars & Stellar Evolution"
+          ]
+        },
+        {
+          "title": "A planet candidate appears to have formed after its star died",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-06_exoplanets_white-dwarf-second-generation-planet/",
+          "published": "2026-10-06T00:00:00+00:00",
+          "source": "Cosmic Notebook",
+          "excerpt": "A hot white dwarf is swallowing material rich in elements made late in its former life as a giant star. Together with a 4.4-day brightness cycle, that chemistry points to a giant planet candidate assembled after the star shed its outer layers.",
+          "tags": [
+            "Exoplanets",
+            "Planet Formation"
+          ]
+        }
+      ]
+    }
+  },
+  "themes": [
+    {
+      "label": "AI writes code",
+      "source": "LinkedIn",
+      "count": 1,
+      "basis": "Google autocomplete phrase matched to a public title, excerpt, or topic tag",
+      "evidence": [
+        {
+          "title": "“AI writes the design doc, AI writes the code, AI writes the unit tests and integration tests.",
+          "url": "https://www.linkedin.com/posts/ojaashampiholi_ai-writes-the-design-doc-ai-writes-the-activity-7492304953819013120-HbmL",
+          "published": "2026-08-09T19:45:01.245000+00:00"
+        }
+      ]
+    },
+    {
+      "label": "AI incident reporting framework",
+      "source": "Medium",
+      "count": 1,
+      "basis": "Google autocomplete phrase matched to a public title, excerpt, or topic tag",
+      "evidence": [
+        {
+          "title": "AI Incident Reports Need to Separate Evidence From Explanation",
+          "url": "https://ojaashampiholi.medium.com/ai-incident-reports-need-to-separate-evidence-from-explanation-f14c9632d286",
+          "published": "2026-09-22T13:11:01+00:00"
+        }
+      ]
+    },
+    {
+      "label": "engineering AI agents",
+      "source": "Medium",
+      "count": 1,
+      "basis": "Google autocomplete phrase matched to a public title, excerpt, or topic tag",
+      "evidence": [
+        {
+          "title": "From APIs to Actuators: How to Engineer AI Agents for the Physical World",
+          "url": "https://ojaashampiholi.medium.com/from-apis-to-actuators-how-to-engineer-ai-agents-for-the-physical-world-2d57a5cf19cf",
+          "published": "2026-09-03T11:06:00+00:00"
+        }
+      ]
+    },
+    {
+      "label": "AI agent communication protocol",
+      "source": "Medium",
+      "count": 1,
+      "basis": "Google autocomplete phrase matched to a public title, excerpt, or topic tag",
+      "evidence": [
+        {
+          "title": "The Language AI Agents Speak",
+          "url": "https://ojaashampiholi.medium.com/the-language-ai-agents-speak-9055d36ecb21",
+          "published": "2026-08-29T11:06:01+00:00"
+        }
+      ]
+    },
+    {
+      "label": "sub-Neptune exoplanets",
+      "source": "Cosmic Notebook",
+      "count": 1,
+      "basis": "Google autocomplete phrase matched to a public title, excerpt, or topic tag",
+      "evidence": [
+        {
+          "title": "A sub-Neptune circles its red dwarf backwards",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-27_exoplanets_gj-3090-b-retrograde/",
+          "published": "2026-09-27T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "label": "planet formation in protoplanetary disks",
+      "source": "Cosmic Notebook",
+      "count": 7,
+      "basis": "Google autocomplete phrase matched to a public title, excerpt, or topic tag",
+      "evidence": [
+        {
+          "title": "The youngest known planet is still forming in its disk",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-18_exoplanets_elias-2-24-b-youngest-planet/",
+          "published": "2026-09-18T00:00:00+00:00"
+        },
+        {
+          "title": "JWST watches planet-forming disks lose their gas",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-02_planet-formation_jwst-disk-winds/",
+          "published": "2026-09-02T00:00:00+00:00"
+        },
+        {
+          "title": "A planet candidate appears to have formed after its star died",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-06_exoplanets_white-dwarf-second-generation-planet/",
+          "published": "2026-10-06T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "label": "black hole jets explained",
+      "source": "Cosmic Notebook",
+      "count": 4,
+      "basis": "Google autocomplete phrase matched to a public title, excerpt, or topic tag",
+      "evidence": [
+        {
+          "title": "Black holes big and small may launch jets by the same rule",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-21_black-holes_universal-jet-rule/",
+          "published": "2026-09-21T00:00:00+00:00"
+        },
+        {
+          "title": "Webb finds warm dust around a quiet black hole binary",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-01_black-holes_warm-circumbinary-dust/",
+          "published": "2026-10-01T00:00:00+00:00"
+        },
+        {
+          "title": "Hubble watches a ten-sided wave grow at Saturn's south pole",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-04_solar-system_saturn-south-pole-decagon/",
+          "published": "2026-09-04T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "label": "short stories about deception",
+      "source": "Substack",
+      "count": 2,
+      "basis": "Google autocomplete phrase matched to a public title, excerpt, or topic tag",
+      "evidence": [
+        {
+          "title": "The Seating Plan",
+          "url": "https://ojaashampiholi.substack.com/p/the-seating-plan",
+          "published": "2026-09-25T22:43:10+00:00"
+        },
+        {
+          "title": "Declared Value",
+          "url": "https://ojaashampiholi.substack.com/p/declared-value",
+          "published": "2026-09-15T12:17:42+00:00"
+        }
+      ]
+    }
+  ],
+  "method": "LinkedIn posts are discovered from the public profile, with permalinks in linkedin-posts.txt kept as a backup. LinkedIn and Medium cards are the four newest posts from the last 180 days, widened to 365 days only when 180 days does not yield four. Substack and The Cosmic Notebook show the four newest. Search phrases still use a 90-day match and are not a search-volume ranking."
+}

@@ -1,0 +1,43 @@
+---
+interface Props { slug: string }
+const {slug}=Astro.props;
+const label: Record<string,string>={
+  'customer-intelligence':'Audience groups drawn as bars, the tallest marked as the highest rank',
+  'payments-ml':'A payment moving from checkout, through ranking, to an outcome',
+  'cvpilot-ai':'A résumé draft passing through two checks',
+  'litlens':'Papers moving through extraction into clusters',
+};
+---
+<figure class="sketch">
+  <svg viewBox="0 0 168 92" role="img" aria-label={label[slug] ?? 'A small diagram of this system'}>
+    {slug==='customer-intelligence'&&<g>
+      <rect class="sketch-rise" x="18" y="48" width="28" height="28" rx="4" fill="var(--blue)"/>
+      <rect class="sketch-rise" x="58" y="32" width="28" height="44" rx="4" fill="var(--accent)"/>
+      <rect class="sketch-rise" x="98" y="14" width="28" height="62" rx="4" fill="var(--coral)"/>
+      <circle cx="32" cy="84" r="3" fill="var(--ink)"/>
+      <circle cx="72" cy="84" r="3" fill="var(--ink)"/>
+      <circle cx="112" cy="84" r="3" fill="var(--ink)"/>
+    </g>}
+    {slug==='payments-ml'&&<g fill="none" stroke-linecap="round">
+      <circle cx="28" cy="46" r="12" fill="var(--blue)"/>
+      <path class="sketch-draw" d="M40 46 H70" stroke="var(--coral)" stroke-width="3"/>
+      <circle cx="84" cy="46" r="12" fill="var(--accent)"/>
+      <path class="sketch-draw" d="M96 46 H126" stroke="var(--coral)" stroke-width="3"/>
+      <circle class="sketch-pulse" cx="140" cy="46" r="12" fill="var(--coral)"/>
+    </g>}
+    {slug==='cvpilot-ai'&&<g>
+      <rect x="12" y="22" width="58" height="48" rx="8" fill="var(--blue-wash)" stroke="var(--blue)" stroke-width="2.5"/>
+      <path class="sketch-draw" d="M74 46 H96" stroke="var(--coral)" stroke-width="3" fill="none" stroke-linecap="round"/>
+      <rect x="98" y="22" width="58" height="48" rx="8" fill="var(--coral-wash)" stroke="var(--coral)" stroke-width="2.5"/>
+      <path d="M118 46 l8 8 14-16" fill="none" stroke="var(--coral)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>}
+    {slug==='litlens'&&<g>
+      <rect x="8" y="28" width="36" height="36" rx="6" fill="var(--blue-wash)" stroke="var(--blue)" stroke-width="2.5"/>
+      <path class="sketch-draw" d="M48 46 H62" stroke="var(--accent)" stroke-width="3" fill="none" stroke-linecap="round"/>
+      <rect x="66" y="28" width="36" height="36" rx="6" fill="var(--wash)" stroke="var(--accent)" stroke-width="2.5"/>
+      <path class="sketch-draw" d="M106 46 H120" stroke="var(--coral)" stroke-width="3" fill="none" stroke-linecap="round"/>
+      <circle class="sketch-pulse" cx="140" cy="40" r="10" fill="var(--coral)"/>
+      <circle cx="152" cy="54" r="8" fill="var(--blue)"/>
+    </g>}
+  </svg>
+</figure>
