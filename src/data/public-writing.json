@@ -1,30 +1,30 @@
 {
-  "refreshed": "2026-10-09T14:56:53.731819+00:00",
+  "refreshed": "2026-10-09T15:59:51.239054+00:00",
   "windowDays": 90,
   "windowStart": "2026-07-11",
   "sources": [
     {
       "name": "LinkedIn",
       "status": "fresh",
-      "lastSuccess": "2026-10-09T14:46:01.932066+00:00",
+      "lastSuccess": "2026-10-09T15:59:51.239054+00:00",
       "error": null
     },
     {
       "name": "Medium",
       "status": "fresh",
-      "lastSuccess": "2026-10-09T14:46:01.932066+00:00",
+      "lastSuccess": "2026-10-09T15:59:51.239054+00:00",
       "error": null
     },
     {
       "name": "Substack",
-      "status": "fresh",
+      "status": "cached",
       "lastSuccess": "2026-10-09T14:46:01.932066+00:00",
-      "error": null
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "name": "Cosmic Notebook",
       "status": "fresh",
-      "lastSuccess": "2026-10-09T14:46:01.932066+00:00",
+      "lastSuccess": "2026-10-09T15:59:51.239054+00:00",
       "error": null
     }
   ],
@@ -134,11 +134,11 @@
       ]
     },
     {
-      "title": "Apple Pay hit India a decade late. Launch day is easy- Axis Bank cards, no UPI, and big headlines.",
+      "title": "Apple Pay hit India a decade late.",
       "url": "https://www.linkedin.com/posts/ojaashampiholi_apple-pay-hit-india-a-decade-late-launch-activity-7511340058743005185-miD-",
-      "published": "2026-10-01T08:23:43.954000+00:00",
-      "excerpt": "Apple Pay hit India a decade late. Launch day is easy- Axis Bank cards, no UPI, and big headlines. The real scoreboard is quieter: did the tap work, and more importantly did they tap again next week?",
+      "published": "2026-10-01T08:23:43.952000+00:00",
       "source": "LinkedIn",
+      "excerpt": "Apple Pay hit India a decade late. Launch day is easy- Axis Bank cards, no UPI, and big headlines. The real scoreboard is quieter: did the tap work, and more importantly did they tap again next week? Payments are won on reliability, not launch day and the verdict on this one rema",
       "tags": []
     },
     {
@@ -152,11 +152,11 @@
       ]
     },
     {
-      "title": "Forecasting models are getting easier to reuse. The business decisions they drive however are getting difficult to reverse.",
+      "title": "Forecasting models are getting easier to reuse.",
       "url": "https://www.linkedin.com/posts/ojaashampiholi_forecasting-models-are-getting-easier-to-activity-7510975576451772416-z3TA",
-      "published": "2026-09-30T08:15:24.604000+00:00",
-      "excerpt": "Forecasting models are getting easier to reuse. The business decisions they drive however are getting difficult to reverse. Tabby, an open foundation model for time series, gives teams a reusable start instead of a model trained from scratch for every dataset.",
+      "published": "2026-09-30T08:15:24.603000+00:00",
       "source": "LinkedIn",
+      "excerpt": "Forecasting models are getting easier to reuse. The business decisions they drive however are getting difficult to reverse. Tabby, an open foundation model for time series, gives teams a reusable start instead of a model trained from scratch for every dataset. Useful, yes. Enough",
       "tags": []
     },
     {
@@ -172,9 +172,9 @@
     {
       "title": "OpenAI may have just moved past the chatbot era.",
       "url": "https://www.linkedin.com/posts/ojaashampiholi_openai-may-have-just-moved-past-the-chatbot-activity-7510784503486017536-LeIC",
-      "published": "2026-09-29T19:36:09.259000+00:00",
-      "excerpt": "OpenAI may have just moved past the chatbot era. DevDay brought Dots: always-on agents that keep working, alongside ChatGPT Space and GPT-6.1 Sol. But the interesting shift isn’t another smarter model, it’s AI moving from “answer me” to “keep going.”",
+      "published": "2026-09-29T19:36:09.258000+00:00",
       "source": "LinkedIn",
+      "excerpt": "OpenAI may have just moved past the chatbot era. DevDay brought Dots: always-on agents that keep working, alongside ChatGPT Space and GPT-6.1 Sol. But the interesting shift isn’t another smarter model, it’s AI moving from “answer me” to “keep going.”",
       "tags": []
     },
     {
@@ -787,27 +787,27 @@
       "windowDays": 180,
       "entries": [
         {
-          "title": "Apple Pay hit India a decade late. Launch day is easy- Axis Bank cards, no UPI, and big headlines.",
+          "title": "Apple Pay hit India a decade late.",
           "url": "https://www.linkedin.com/posts/ojaashampiholi_apple-pay-hit-india-a-decade-late-launch-activity-7511340058743005185-miD-",
-          "published": "2026-10-01T08:23:43.954000+00:00",
-          "excerpt": "Apple Pay hit India a decade late. Launch day is easy- Axis Bank cards, no UPI, and big headlines. The real scoreboard is quieter: did the tap work, and more importantly did they tap again next week?",
+          "published": "2026-10-01T08:23:43.952000+00:00",
           "source": "LinkedIn",
+          "excerpt": "Apple Pay hit India a decade late. Launch day is easy- Axis Bank cards, no UPI, and big headlines. The real scoreboard is quieter: did the tap work, and more importantly did they tap again next week? Payments are won on reliability, not launch day and the verdict on this one rema",
           "tags": []
         },
         {
-          "title": "Forecasting models are getting easier to reuse. The business decisions they drive however are getting difficult to reverse.",
+          "title": "Forecasting models are getting easier to reuse.",
           "url": "https://www.linkedin.com/posts/ojaashampiholi_forecasting-models-are-getting-easier-to-activity-7510975576451772416-z3TA",
-          "published": "2026-09-30T08:15:24.604000+00:00",
-          "excerpt": "Forecasting models are getting easier to reuse. The business decisions they drive however are getting difficult to reverse. Tabby, an open foundation model for time series, gives teams a reusable start instead of a model trained from scratch for every dataset.",
+          "published": "2026-09-30T08:15:24.603000+00:00",
           "source": "LinkedIn",
+          "excerpt": "Forecasting models are getting easier to reuse. The business decisions they drive however are getting difficult to reverse. Tabby, an open foundation model for time series, gives teams a reusable start instead of a model trained from scratch for every dataset. Useful, yes. Enough",
           "tags": []
         },
         {
           "title": "OpenAI may have just moved past the chatbot era.",
           "url": "https://www.linkedin.com/posts/ojaashampiholi_openai-may-have-just-moved-past-the-chatbot-activity-7510784503486017536-LeIC",
-          "published": "2026-09-29T19:36:09.259000+00:00",
-          "excerpt": "OpenAI may have just moved past the chatbot era. DevDay brought Dots: always-on agents that keep working, alongside ChatGPT Space and GPT-6.1 Sol. But the interesting shift isn’t another smarter model, it’s AI moving from “answer me” to “keep going.”",
+          "published": "2026-09-29T19:36:09.258000+00:00",
           "source": "LinkedIn",
+          "excerpt": "OpenAI may have just moved past the chatbot era. DevDay brought Dots: always-on agents that keep working, alongside ChatGPT Space and GPT-6.1 Sol. But the interesting shift isn’t another smarter model, it’s AI moving from “answer me” to “keep going.”",
           "tags": []
         },
         {
