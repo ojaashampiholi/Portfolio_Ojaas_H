@@ -1,18 +1,18 @@
 {
-  "refreshed": "2026-10-09T15:59:51.239054+00:00",
+  "refreshed": "2026-10-11T22:13:39.748938+00:00",
   "windowDays": 90,
-  "windowStart": "2026-07-11",
+  "windowStart": "2026-07-13",
   "sources": [
     {
       "name": "LinkedIn",
       "status": "fresh",
-      "lastSuccess": "2026-10-09T15:59:51.239054+00:00",
+      "lastSuccess": "2026-10-11T22:13:39.748938+00:00",
       "error": null
     },
     {
       "name": "Medium",
       "status": "fresh",
-      "lastSuccess": "2026-10-09T15:59:51.239054+00:00",
+      "lastSuccess": "2026-10-11T22:13:39.748938+00:00",
       "error": null
     },
     {
@@ -24,11 +24,39 @@
     {
       "name": "Cosmic Notebook",
       "status": "fresh",
-      "lastSuccess": "2026-10-09T15:59:51.239054+00:00",
+      "lastSuccess": "2026-10-11T22:13:39.748938+00:00",
       "error": null
     }
   ],
   "entries": [
+    {
+      "title": "Quaoar's moon Weywot is darker than expected",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-11_solar-system_weywot-dark-moon/",
+      "published": "2026-10-11T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "A new analysis of Hubble observations and a 2023 stellar occultation suggests that Weywot, the small moon of the dwarf planet Quaoar, is both compact and unusually dark. Its low reflectivity complicates the idea that it formed entirely from bright, water-rich mantle material stri",
+      "tags": [
+        "Solar System & Planetary Science"
+      ]
+    },
+    {
+      "title": "A voice agent can feel fast and still be bad at conversation.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_a-voice-agent-can-feel-fast-and-still-be-activity-7514689993282314241-hPQ_",
+      "published": "2026-10-10T14:15:10.586000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "A voice agent can feel fast and still be bad at conversation. Latency measures one moment however a real voice system has to survive the whole loop: listening, understanding, deciding, acting, responding, and recovering when something goes wrong. That is where many of the failure",
+      "tags": []
+    },
+    {
+      "title": "MeerKAT maps distant hydrogen without resolving individual galaxies",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-10_cosmology_meerkat-hydrogen-intensity-map/",
+      "published": "2026-10-10T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "MeerKAT has directly measured the combined 21-centimeter radio signal from neutral hydrogen across a large patch of the universe. The result shows that astronomers can map cosmic structure statistically without detecting every galaxy one by one.",
+      "tags": [
+        "Cosmology & Early Universe"
+      ]
+    },
     {
       "title": "How to Evaluate a Real-Time Voice AI System Beyond Latency",
       "url": "https://ojaashampiholi.medium.com/how-to-evaluate-a-real-time-voice-ai-system-beyond-latency-c80aebb435b2",
@@ -53,6 +81,14 @@
       ]
     },
     {
+      "title": "An LLM judge should not be forced to pick a winner every time.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_an-llm-judge-should-not-be-forced-to-pick-activity-7513969346055159808-oZRF",
+      "published": "2026-10-08T14:31:34.898000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "An LLM judge should not be forced to pick a winner every time. If System A scores 82 and System B scores 81, “A wins” looks precise. It may only mean the evaluator is pretending that its uncertainty does not exist. I think production evals need an explicit abstention region. When",
+      "tags": []
+    },
+    {
       "title": "Solar Orbiter traced a magnetic switchback back to the Sun",
       "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-08_sun-space-weather_solar-switchback-origin/",
       "published": "2026-10-08T00:00:00+00:00",
@@ -71,6 +107,22 @@
       "tags": [
         "Stars & Stellar Evolution"
       ]
+    },
+    {
+      "title": "The cheapest model per token can still be the expensive system.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_the-cheapest-model-per-token-can-still-be-activity-7513248027319607296-51nG",
+      "published": "2026-10-06T14:45:19.110000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "The cheapest model per token can still be the expensive system. Anthropic’s Sonnet 5.5 launch is a useful reminder that model economics are now moving beyond the price printed on the API page. A lower token price helps. But production cost is closer to: 𝘵𝘰𝘬𝘦𝘯𝘴 × 𝘴𝘵𝘦𝘱𝘴 × 𝘳𝘦𝘵𝘳𝘪𝘦𝘴 ×",
+      "tags": []
+    },
+    {
+      "title": "Your AI coding assistant can get slower by guessing too much.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_your-ai-coding-assistant-can-get-slower-by-activity-7513103787868487680-a85G",
+      "published": "2026-10-06T05:12:09.745000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "Your AI coding assistant can get slower by guessing too much. Think of autocomplete that keeps predicting five words ahead, then deletes most of them. That's wasted work. A new paper, AgSpec, teaches the AI to guess only as much as is likely to be right. Researchers report faster",
+      "tags": []
     },
     {
       "title": "A planet candidate appears to have formed after its star died",
@@ -122,6 +174,14 @@
         "Cosmology & Early Universe",
         "Galaxies & Galactic Evolution"
       ]
+    },
+    {
+      "title": "Founders and Product Folks: When someone says a recommendation system is “high-performing,” I would ask one follow-up: High-performing where?",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_founders-and-product-folks-when-someone-activity-7511790860360028160-LN4E",
+      "published": "2026-10-02T14:15:03.434000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "Founders and Product Folks: When someone says a recommendation system is “high-performing,” I would ask one follow-up: High-performing where? A model can look excellent in offline tests and still disappoint users after launch. Offline evaluation is not exactly pointless, it is th",
+      "tags": []
     },
     {
       "title": "Webb reads the wreckage of planet-sized collisions",
@@ -787,35 +847,35 @@
       "windowDays": 180,
       "entries": [
         {
-          "title": "Apple Pay hit India a decade late.",
-          "url": "https://www.linkedin.com/posts/ojaashampiholi_apple-pay-hit-india-a-decade-late-launch-activity-7511340058743005185-miD-",
-          "published": "2026-10-01T08:23:43.952000+00:00",
+          "title": "A voice agent can feel fast and still be bad at conversation.",
+          "url": "https://www.linkedin.com/posts/ojaashampiholi_a-voice-agent-can-feel-fast-and-still-be-activity-7514689993282314241-hPQ_",
+          "published": "2026-10-10T14:15:10.586000+00:00",
           "source": "LinkedIn",
-          "excerpt": "Apple Pay hit India a decade late. Launch day is easy- Axis Bank cards, no UPI, and big headlines. The real scoreboard is quieter: did the tap work, and more importantly did they tap again next week? Payments are won on reliability, not launch day and the verdict on this one rema",
+          "excerpt": "A voice agent can feel fast and still be bad at conversation. Latency measures one moment however a real voice system has to survive the whole loop: listening, understanding, deciding, acting, responding, and recovering when something goes wrong. That is where many of the failure",
           "tags": []
         },
         {
-          "title": "Forecasting models are getting easier to reuse.",
-          "url": "https://www.linkedin.com/posts/ojaashampiholi_forecasting-models-are-getting-easier-to-activity-7510975576451772416-z3TA",
-          "published": "2026-09-30T08:15:24.603000+00:00",
+          "title": "An LLM judge should not be forced to pick a winner every time.",
+          "url": "https://www.linkedin.com/posts/ojaashampiholi_an-llm-judge-should-not-be-forced-to-pick-activity-7513969346055159808-oZRF",
+          "published": "2026-10-08T14:31:34.898000+00:00",
           "source": "LinkedIn",
-          "excerpt": "Forecasting models are getting easier to reuse. The business decisions they drive however are getting difficult to reverse. Tabby, an open foundation model for time series, gives teams a reusable start instead of a model trained from scratch for every dataset. Useful, yes. Enough",
+          "excerpt": "An LLM judge should not be forced to pick a winner every time. If System A scores 82 and System B scores 81, “A wins” looks precise. It may only mean the evaluator is pretending that its uncertainty does not exist. I think production evals need an explicit abstention region. When",
           "tags": []
         },
         {
-          "title": "OpenAI may have just moved past the chatbot era.",
-          "url": "https://www.linkedin.com/posts/ojaashampiholi_openai-may-have-just-moved-past-the-chatbot-activity-7510784503486017536-LeIC",
-          "published": "2026-09-29T19:36:09.258000+00:00",
+          "title": "The cheapest model per token can still be the expensive system.",
+          "url": "https://www.linkedin.com/posts/ojaashampiholi_the-cheapest-model-per-token-can-still-be-activity-7513248027319607296-51nG",
+          "published": "2026-10-06T14:45:19.110000+00:00",
           "source": "LinkedIn",
-          "excerpt": "OpenAI may have just moved past the chatbot era. DevDay brought Dots: always-on agents that keep working, alongside ChatGPT Space and GPT-6.1 Sol. But the interesting shift isn’t another smarter model, it’s AI moving from “answer me” to “keep going.”",
+          "excerpt": "The cheapest model per token can still be the expensive system. Anthropic’s Sonnet 5.5 launch is a useful reminder that model economics are now moving beyond the price printed on the API page. A lower token price helps. But production cost is closer to: 𝘵𝘰𝘬𝘦𝘯𝘴 × 𝘴𝘵𝘦𝘱𝘴 × 𝘳𝘦𝘵𝘳𝘪𝘦𝘴 ×",
           "tags": []
         },
         {
-          "title": "A recommender that wins offline but collapses at cold start hasn’t really won.",
-          "url": "https://www.linkedin.com/posts/ojaashampiholi_a-recommender-that-wins-offline-but-collapses-activity-7510718831166644224-wNJY",
-          "published": "2026-09-29T15:15:11.756000+00:00",
+          "title": "Your AI coding assistant can get slower by guessing too much.",
+          "url": "https://www.linkedin.com/posts/ojaashampiholi_your-ai-coding-assistant-can-get-slower-by-activity-7513103787868487680-a85G",
+          "published": "2026-10-06T05:12:09.745000+00:00",
           "source": "LinkedIn",
-          "excerpt": "A recommender that wins offline but collapses at cold start hasn’t really won. It passed an evaluation whose conditions were too kind. That is why the agenda around RecSys 2026 matters. The conference call goes beyond better algorithms: it explicitly includes evaluation beyond ac",
+          "excerpt": "Your AI coding assistant can get slower by guessing too much. Think of autocomplete that keeps predicting five words ahead, then deletes most of them. That's wasted work. A new paper, AgSpec, teaches the AI to guess only as much as is likely to be right. Researchers report faster",
           "tags": []
         }
       ]
@@ -924,6 +984,26 @@
       "windowDays": null,
       "entries": [
         {
+          "title": "Quaoar's moon Weywot is darker than expected",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-11_solar-system_weywot-dark-moon/",
+          "published": "2026-10-11T00:00:00+00:00",
+          "source": "Cosmic Notebook",
+          "excerpt": "A new analysis of Hubble observations and a 2023 stellar occultation suggests that Weywot, the small moon of the dwarf planet Quaoar, is both compact and unusually dark. Its low reflectivity complicates the idea that it formed entirely from bright, water-rich mantle material stri",
+          "tags": [
+            "Solar System & Planetary Science"
+          ]
+        },
+        {
+          "title": "MeerKAT maps distant hydrogen without resolving individual galaxies",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-10_cosmology_meerkat-hydrogen-intensity-map/",
+          "published": "2026-10-10T00:00:00+00:00",
+          "source": "Cosmic Notebook",
+          "excerpt": "MeerKAT has directly measured the combined 21-centimeter radio signal from neutral hydrogen across a large patch of the universe. The result shows that astronomers can map cosmic structure statistically without detecting every galaxy one by one.",
+          "tags": [
+            "Cosmology & Early Universe"
+          ]
+        },
+        {
           "title": "ALMA finds a fully heavy version of methanol around a young star",
           "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-09_stars_fully-deuterated-methanol/",
           "published": "2026-10-09T00:00:00+00:00",
@@ -941,27 +1021,6 @@
           "excerpt": "Solar Orbiter flew through a large kink in the solar wind's magnetic field and measured the particles inside it. Their chemical fingerprint traced the structure to hot magnetic loops near the Sun, showing how reconnection can launch a switchback before waves and turbulence reshap",
           "tags": [
             "Sun & Space Weather"
-          ]
-        },
-        {
-          "title": "ALMA finds a compact seed where a massive star may be forming",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-07_stars_dragon-egg-massive-star-seed/",
-          "published": "2026-10-07T00:00:00+00:00",
-          "source": "Cosmic Notebook",
-          "excerpt": "ALMA found that the brightest part of a cold cloud nicknamed the dragon egg stays concentrated into one compact peak at scales down to about 175 astronomical units. The result may capture a massive star near the beginning of its formation, but the source could already hide a smal",
-          "tags": [
-            "Stars & Stellar Evolution"
-          ]
-        },
-        {
-          "title": "A planet candidate appears to have formed after its star died",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-06_exoplanets_white-dwarf-second-generation-planet/",
-          "published": "2026-10-06T00:00:00+00:00",
-          "source": "Cosmic Notebook",
-          "excerpt": "A hot white dwarf is swallowing material rich in elements made late in its former life as a giant star. Together with a 4.4-day brightness cycle, that chemistry points to a giant planet candidate assembled after the star shed its outer layers.",
-          "tags": [
-            "Exoplanets",
-            "Planet Formation"
           ]
         }
       ]
