@@ -1,18 +1,18 @@
 {
-  "refreshed": "2026-10-18T20:56:18.981285+00:00",
+  "refreshed": "2026-10-25T21:01:54.828844+00:00",
   "windowDays": 90,
-  "windowStart": "2026-07-20",
+  "windowStart": "2026-07-27",
   "sources": [
     {
       "name": "LinkedIn",
       "status": "fresh",
-      "lastSuccess": "2026-10-18T20:56:18.981285+00:00",
+      "lastSuccess": "2026-10-25T21:01:54.828844+00:00",
       "error": null
     },
     {
       "name": "Medium",
       "status": "fresh",
-      "lastSuccess": "2026-10-18T20:56:18.981285+00:00",
+      "lastSuccess": "2026-10-25T21:01:54.828844+00:00",
       "error": null
     },
     {
@@ -24,11 +24,114 @@
     {
       "name": "Cosmic Notebook",
       "status": "fresh",
-      "lastSuccess": "2026-10-18T20:56:18.981285+00:00",
+      "lastSuccess": "2026-10-25T21:01:54.828844+00:00",
       "error": null
     }
   ],
   "entries": [
+    {
+      "title": "Chandra resolves the most distant X-ray jet into two parts",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-25_black-holes_distant-xray-jet-two-components/",
+      "published": "2026-10-25T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "A 100-hour Chandra exposure separates the most distant large X-ray jet yet resolved into two components. The faint structure comes from a black-hole-powered blazar seen when the universe was less than one billion years old, but its exact radiation mechanism remains unsettled.",
+      "tags": [
+        "Black Holes"
+      ]
+    },
+    {
+      "title": "Microsoft just said the quiet part out loud - your AI agent might be an insider threat.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_microsoft-just-said-the-quiet-part-out-loud-activity-7519899281357516800-ZtAZ",
+      "published": "2026-10-24T23:15:01.647000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "Microsoft just said the quiet part out loud - your AI agent might be an insider threat. It’s not malicious by design, but it’s capable, unpredictable, and possibly overprivileged. I’ve seen production ML systems meet their metrics while creating unintended consequences. Now imagi",
+      "tags": []
+    },
+    {
+      "title": "Your AI agent worked all night.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_your-ai-agent-worked-all-night-great-now-activity-7519779445654581248-_VBw",
+      "published": "2026-10-24T15:18:50.589000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "Your AI agent worked all night. Great, now you need to prove it didn’t make things worse. Anthropic’s Claude Duet brings us closer to agents working while we’re away. But production ML taught me something: hitting a metric doesn’t guarantee a good outcome. We also need to study t",
+      "tags": []
+    },
+    {
+      "title": "A recommender doesn’t just learn what people want.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_a-recommender-doesnt-just-learn-what-people-activity-7519759927226339328-XrAs",
+      "published": "2026-10-24T14:01:17.033000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "A recommender doesn’t just learn what people want. It can change what they want next. I’ve seen versions of this in production: after recommendations influenced what users explored, the next round of behavior data no longer looked quite like the old one. Meta’s new GEM architectu",
+      "tags": []
+    },
+    {
+      "title": "Helium points to a double detonation in supernova 2024kce",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-24_stars-stellar-evolution_sn-2024kce-helium/",
+      "published": "2026-10-24T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Astronomers found three helium absorption signatures in SN 2024kce eleven days before its brightest point. Their locations and speeds support a model in which a surface helium explosion triggered the destruction of a white dwarf, though the result remains an unreviewed preprint.",
+      "tags": [
+        "Stars & Stellar Evolution"
+      ]
+    },
+    {
+      "title": "Five AI judges agree.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_five-ai-judges-agree-would-you-trust-the-activity-7519393512417697792-Qb-j",
+      "published": "2026-10-23T13:45:16.935000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "Five AI judges agree. Would you trust the decision? I wouldn’t treat agreement as the end of verification. Models can share blind spots, even when they come from different providers. Google Research’s new Deep Review caught my eye for a related reason: it spends more reasoning ef",
+      "tags": []
+    },
+    {
+      "title": "A solar shock wave strengthened far from its eruption",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-23_sun-space-weather_moreton-wave-rebrightening/",
+      "published": "2026-10-23T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "A shock wave racing across the Sun weakened as expected, then strengthened again about 213 million metres from its eruption. Observations and a three-dimensional simulation indicate that a magnetic null redirected part of the wave downward into the chromosphere.",
+      "tags": [
+        "Sun & Space Weather"
+      ]
+    },
+    {
+      "title": "Euclid uses faint cluster light to trace dark halo shapes",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-22_galaxies_euclid-intracluster-light-halo-shapes/",
+      "published": "2026-10-22T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Euclid measured the faint glow between galaxies in 205 clusters and found that it changes from a fairly round core to a more elongated outer region. Its shape and direction agree closely enough with gravitational-lensing measurements to make this light a promising tracer of the c",
+      "tags": [
+        "Galaxies & Galactic Evolution"
+      ]
+    },
+    {
+      "title": "SPHEREx maps changing chemistry across 37 brown dwarfs",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-21_stars_spherex-brown-dwarf-atmospheres/",
+      "published": "2026-10-21T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "SPHEREx traced water, methane, carbon monoxide, and carbon dioxide features across 37 nearby brown dwarfs, from hot L types to frigid Y types. The sequence shows chemistry changing smoothly as the objects cool, while current atmosphere models miss important parts of the measured ",
+      "tags": [
+        "Stars & Stellar Evolution"
+      ]
+    },
+    {
+      "title": "Warped galaxies place a tight limit on a dark fifth force",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-20_gravity_galaxy-warps-dark-fifth-force/",
+      "published": "2026-10-20T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Nearly 4,000 edge-on galaxies show no shared warping pattern expected from a force acting on dark matter but not stars. The resulting limit is less than 0.17% of gravity for forces reaching at least 8 megaparsecs, after accounting for tested systematic uncertainties.",
+      "tags": [
+        "Gravity & Fundamental Physics",
+        "Cosmology & Early Universe"
+      ]
+    },
+    {
+      "title": "A hot Jupiter has two sharply different atmospheric edges",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-19_exoplanets_wasp-94a-b-two-limbs/",
+      "published": "2026-10-19T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "JWST transit data reveal two very different edges of hot Jupiter WASP-94A b. Its morning edge is hidden by high aerosols, while its clearer evening edge is about 415 kelvin hotter and carries measurable molecular fingerprints.",
+      "tags": [
+        "Exoplanets"
+      ]
+    },
     {
       "title": "An interstellar comet's fading coma points to short-lived icy grains",
       "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-18_solar-system_3i-atlas-icy-grains/",
@@ -189,9 +292,9 @@
       ]
     },
     {
-      "title": "An LLM judge should not be forced to pick a winner every tim",
+      "title": "An LLM judge should not be forced to pick a winner every time.",
       "url": "https://www.linkedin.com/posts/ojaashampiholi_an-llm-judge-should-not-be-forced-to-pick-activity-7513969346055159808-oZRF",
-      "published": "2026-10-08T14:31:34.873000+00:00",
+      "published": "2026-10-08T14:31:34.898000+00:00",
       "source": "LinkedIn",
       "excerpt": "An LLM judge should not be forced to pick a winner every time. If System A scores 82 and System B scores 81, “A wins” looks precise. It may only mean the evaluator is pretending that its uncertainty does not exist. I think production evals need an explicit abstention region. When",
       "tags": []
@@ -941,35 +1044,35 @@
       "windowDays": 180,
       "entries": [
         {
-          "title": "My LLM judges couldn’t agree on what “good” meant.",
-          "url": "https://www.linkedin.com/posts/ojaashampiholi_my-llm-judges-couldnt-agree-on-what-good-activity-7517136274340814848-CFki",
-          "published": "2026-10-17T08:15:49.440000+00:00",
+          "title": "Microsoft just said the quiet part out loud - your AI agent might be an insider threat.",
+          "url": "https://www.linkedin.com/posts/ojaashampiholi_microsoft-just-said-the-quiet-part-out-loud-activity-7519899281357516800-ZtAZ",
+          "published": "2026-10-24T23:15:01.647000+00:00",
           "source": "LinkedIn",
-          "excerpt": "My LLM judges couldn’t agree on what “good” meant. Their explanations sounded convincing, but rested on different assumptions. I’ve also seen plausible answers miss the user’s intent. I haven’t settled on an approach but there are papers that are sharpening two questions for me: ",
+          "excerpt": "Microsoft just said the quiet part out loud - your AI agent might be an insider threat. It’s not malicious by design, but it’s capable, unpredictable, and possibly overprivileged. I’ve seen production ML systems meet their metrics while creating unintended consequences. Now imagi",
           "tags": []
         },
         {
-          "title": "I started noticing a problem in my AI agent workflows: the answers looked right, but some of the steps didn’t.",
-          "url": "https://www.linkedin.com/posts/ojaashampiholi_your-agent-passed-the-benchmark-should-you-activity-7516494352458850304-FZ6D",
-          "published": "2026-10-15T13:45:03.337000+00:00",
+          "title": "Your AI agent worked all night.",
+          "url": "https://www.linkedin.com/posts/ojaashampiholi_your-ai-agent-worked-all-night-great-now-activity-7519779445654581248-_VBw",
+          "published": "2026-10-24T15:18:50.589000+00:00",
           "source": "LinkedIn",
-          "excerpt": "I started noticing a problem in my AI agent workflows: the answers looked right, but some of the steps didn’t. That led me to spend time researching how we evaluate an agent’s actions alongside its final answer, and what that means for production readiness. I’ve brought that read",
+          "excerpt": "Your AI agent worked all night. Great, now you need to prove it didn’t make things worse. Anthropic’s Claude Duet brings us closer to agents working while we’re away. But production ML taught me something: hitting a metric doesn’t guarantee a good outcome. We also need to study t",
           "tags": []
         },
         {
-          "title": "A cheaper AI model went from 3/10 successful coding runs to 10/10.",
-          "url": "https://www.linkedin.com/posts/ojaashampiholi_a-cheaper-ai-model-went-from-310-successful-activity-7516116929187713024-slbu",
-          "published": "2026-10-14T12:45:18.617000+00:00",
+          "title": "A recommender doesn’t just learn what people want.",
+          "url": "https://www.linkedin.com/posts/ojaashampiholi_a-recommender-doesnt-just-learn-what-people-activity-7519759927226339328-XrAs",
+          "published": "2026-10-24T14:01:17.033000+00:00",
           "source": "LinkedIn",
-          "excerpt": "A cheaper AI model went from 3/10 successful coding runs to 10/10. The difference? A behavioral harness.In a recent experiment by Naresh Jain, continuous test feedback helped GPT-6 Luna complete a Java task consistently. GPT-6 Sol already passed 10/10 without that feedback. Addin",
+          "excerpt": "A recommender doesn’t just learn what people want. It can change what they want next. I’ve seen versions of this in production: after recommendations influenced what users explored, the next round of behavior data no longer looked quite like the old one. Meta’s new GEM architectu",
           "tags": []
         },
         {
-          "title": "A voice agent can feel fast and still be bad at conversation.",
-          "url": "https://www.linkedin.com/posts/ojaashampiholi_a-voice-agent-can-feel-fast-and-still-be-activity-7514689993282314241-hPQ_",
-          "published": "2026-10-10T14:15:10.586000+00:00",
+          "title": "Five AI judges agree.",
+          "url": "https://www.linkedin.com/posts/ojaashampiholi_five-ai-judges-agree-would-you-trust-the-activity-7519393512417697792-Qb-j",
+          "published": "2026-10-23T13:45:16.935000+00:00",
           "source": "LinkedIn",
-          "excerpt": "A voice agent can feel fast and still be bad at conversation. Latency measures one moment however a real voice system has to survive the whole loop: listening, understanding, deciding, acting, responding, and recovering when something goes wrong. That is where many of the failure",
+          "excerpt": "Five AI judges agree. Would you trust the decision? I wouldn’t treat agreement as the end of verification. Models can share blind spots, even when they come from different providers. Google Research’s new Deep Review caught my eye for a related reason: it spends more reasoning ef",
           "tags": []
         }
       ]
@@ -1077,44 +1180,43 @@
       "windowDays": null,
       "entries": [
         {
-          "title": "An interstellar comet's fading coma points to short-lived icy grains",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-18_solar-system_3i-atlas-icy-grains/",
-          "published": "2026-10-18T00:00:00+00:00",
+          "title": "Chandra resolves the most distant X-ray jet into two parts",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-25_black-holes_distant-xray-jet-two-components/",
+          "published": "2026-10-25T00:00:00+00:00",
           "source": "Cosmic Notebook",
-          "excerpt": "The outer coma of interstellar comet 3I/ATLAS briefly turned unusually blue, then its extra light faded across a span of roughly 64,000 to 72,000 kilometres. A new model links that pattern to tiny, lightly darkened ice grains that survived for only a limited time after leaving th",
+          "excerpt": "A 100-hour Chandra exposure separates the most distant large X-ray jet yet resolved into two components. The faint structure comes from a black-hole-powered blazar seen when the universe was less than one billion years old, but its exact radiation mechanism remains unsettled.",
           "tags": [
-            "Solar System & Planetary Science"
+            "Black Holes"
           ]
         },
         {
-          "title": "A gamma-ray burst reveals a patchy magnetic field",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-17_stars_gamma-ray-burst-polarization/",
-          "published": "2026-10-17T00:00:00+00:00",
+          "title": "Helium points to a double detonation in supernova 2024kce",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-24_stars-stellar-evolution_sn-2024kce-helium/",
+          "published": "2026-10-24T00:00:00+00:00",
           "source": "Cosmic Notebook",
-          "excerpt": "Gamma rays from GRB 181201A were strongly polarized, which means their electric fields tended to share a preferred direction. Small changes in that direction suggest a jet with magnetic patches rather than one globally uniform field.",
+          "excerpt": "Astronomers found three helium absorption signatures in SN 2024kce eleven days before its brightest point. Their locations and speeds support a model in which a surface helium explosion triggered the destruction of a white dwarf, though the result remains an unreviewed preprint.",
           "tags": [
             "Stars & Stellar Evolution"
           ]
         },
         {
-          "title": "A young star and its debris disk are tilted apart",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-16_planet-formation_misaligned-debris-disk/",
-          "published": "2026-10-16T00:00:00+00:00",
+          "title": "A solar shock wave strengthened far from its eruption",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-23_sun-space-weather_moreton-wave-rebrightening/",
+          "published": "2026-10-23T00:00:00+00:00",
           "source": "Cosmic Notebook",
-          "excerpt": "JWST has made the first scattered-light images of the debris disk around the 24-million-year-old star CPD-72 2713. The disk appears tilted relative to the star's equator, and the observations weaken one obvious explanation involving a massive hidden planet.",
+          "excerpt": "A shock wave racing across the Sun weakened as expected, then strengthened again about 213 million metres from its eruption. Observations and a three-dimensional simulation indicate that a magnetic null redirected part of the wave downward into the chromosphere.",
           "tags": [
-            "Planet Formation"
+            "Sun & Space Weather"
           ]
         },
         {
-          "title": "Galaxy clusters leave a rotational fingerprint on the cosmic microwave background",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-15_cosmology_rotating-galaxy-clusters/",
-          "published": "2026-10-15T00:00:00+00:00",
+          "title": "Euclid uses faint cluster light to trace dark halo shapes",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-22_galaxies_euclid-intracluster-light-halo-shapes/",
+          "published": "2026-10-22T00:00:00+00:00",
           "source": "Cosmic Notebook",
-          "excerpt": "A stack of Planck microwave maps centered on 25 galaxy clusters shows a hot-cold dipole aligned with the clusters' inferred rotation directions. The 3.6-sigma result is the first robust evidence that internal gas motions can leave this rotational kinematic Sunyaev-Zel'dovich fing",
+          "excerpt": "Euclid measured the faint glow between galaxies in 205 clusters and found that it changes from a fairly round core to a more elongated outer region. Its shape and direction agree closely enough with gravitational-lensing measurements to make this light a promising tracer of the c",
           "tags": [
-            "Galaxies & Galactic Evolution",
-            "Cosmology & Early Universe"
+            "Galaxies & Galactic Evolution"
           ]
         }
       ]
@@ -1212,7 +1314,7 @@
     {
       "label": "black hole jets explained",
       "source": "Cosmic Notebook",
-      "count": 5,
+      "count": 6,
       "basis": "Google autocomplete phrase matched to a public title, excerpt, or topic tag",
       "evidence": [
         {
@@ -1226,9 +1328,9 @@
           "published": "2026-10-01T00:00:00+00:00"
         },
         {
-          "title": "A gamma-ray burst reveals a patchy magnetic field",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-17_stars_gamma-ray-burst-polarization/",
-          "published": "2026-10-17T00:00:00+00:00"
+          "title": "Chandra resolves the most distant X-ray jet into two parts",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-25_black-holes_distant-xray-jet-two-components/",
+          "published": "2026-10-25T00:00:00+00:00"
         }
       ]
     },
