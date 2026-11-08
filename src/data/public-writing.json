@@ -1,18 +1,18 @@
 {
-  "refreshed": "2026-11-01T22:14:37.423027+00:00",
+  "refreshed": "2026-11-08T22:19:44.031934+00:00",
   "windowDays": 90,
-  "windowStart": "2026-08-03",
+  "windowStart": "2026-08-10",
   "sources": [
     {
       "name": "LinkedIn",
       "status": "fresh",
-      "lastSuccess": "2026-11-01T22:14:37.423027+00:00",
+      "lastSuccess": "2026-11-08T22:19:44.031934+00:00",
       "error": null
     },
     {
       "name": "Medium",
       "status": "fresh",
-      "lastSuccess": "2026-11-01T22:14:37.423027+00:00",
+      "lastSuccess": "2026-11-08T22:19:44.031934+00:00",
       "error": null
     },
     {
@@ -24,11 +24,91 @@
     {
       "name": "Cosmic Notebook",
       "status": "fresh",
-      "lastSuccess": "2026-11-01T22:14:37.423027+00:00",
+      "lastSuccess": "2026-11-08T22:19:44.031934+00:00",
       "error": null
     }
   ],
   "entries": [
+    {
+      "title": "A radio map resolves nearly 63,000 cosmic sources in one patch of sky",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-08_telescopes_lofar-ultradeep-radio-map/",
+      "published": "2026-11-08T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "LOFAR has produced an unusually sharp, deep radio view of a small region of sky. Combining new observations with an earlier map yields 62,916 sources, helping astronomers distinguish star formation from black-hole jets.",
+      "tags": [
+        "Telescopes & Observatories",
+        "Galaxies & Galactic Evolution"
+      ]
+    },
+    {
+      "title": "We demand AI disclosure, but can’t agree on what deserves disclosing.",
+      "url": "https://www.linkedin.com/posts/ojaashampiholi_we-demand-ai-disclosure-but-cant-agree-activity-7524869732286705665-M9Ly",
+      "published": "2026-11-07T16:25:49.495000+00:00",
+      "source": "LinkedIn",
+      "excerpt": "We demand AI disclosure, but can’t agree on what deserves disclosing. Fixing someone’s English isn’t the same as outsourcing their thinking. On the other hand, autonomous agents can contribute ideas and not just polish sentences. A label alone won’t settle authorship moving forwa",
+      "tags": []
+    },
+    {
+      "title": "JWST measures the most distant known ultra-cold Y dwarf",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-07_stars_jades-gs-bd-5-distant-y-dwarf/",
+      "published": "2026-11-07T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Five epochs of JWST imaging have pinned down the distance to JADES-GS-BD-5, an object colder than many ovens and about 64 parsecs away. It is roughly three times farther than any other Y dwarf with a reliable parallax distance.",
+      "tags": [
+        "Stars & Stellar Evolution"
+      ]
+    },
+    {
+      "title": "A digital twin finds a planet hidden in JWST's glare",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-06_exoplanets_flip-hidden-planet/",
+      "published": "2026-11-06T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "A physics-based model removed JWST's leftover starlight precisely enough to recover the known giant planet 51 Eridani b at a wavelength where standard processing missed it. Across several tests, the method improved planet-detection sensitivity by two to 15 times.",
+      "tags": [
+        "Exoplanets",
+        "Telescopes & Observatories"
+      ]
+    },
+    {
+      "title": "A strange gas hints that Mars may still have magma underground",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-05_solar-system_mars-hydrogen-chloride-volcanism/",
+      "published": "2026-11-05T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "ExoMars detected unexpected hydrogen chloride near fissures on the flank of Alba Mons during a cold Martian season. The pattern may come from volcanic gas seeping out of Mars, but no magma or eruption has been observed directly.",
+      "tags": [
+        "Solar System & Planetary Science"
+      ]
+    },
+    {
+      "title": "JWST traces carbon from a hot inner disk into a planet-forming wind",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-04_planet-formation_hops-68-carbon-wind/",
+      "published": "2026-11-04T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "JWST found warm carbon-bearing molecules moving outward from the inner disk around the young star HOPS-68, while ALMA traced related chemistry along its outflow cavity. The observations support a scenario in which intense heat strips carbon from dust before a disk wind carries it",
+      "tags": [
+        "Planet Formation"
+      ]
+    },
+    {
+      "title": "Dwarf galaxies kept only a tenth of the oxygen their stars made",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-03_galaxies_dwarf-galaxies-missing-oxygen/",
+      "published": "2026-11-03T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "A census of 37 nearby dwarf galaxies found that they retain only 4% to 25% of the oxygen their stars produced, with an average near 11%. Most of the missing oxygen may have been swept out by stellar winds and supernovae, but its present location is still unknown.",
+      "tags": [
+        "Galaxies & Galactic Evolution"
+      ]
+    },
+    {
+      "title": "HAWC maps TeV gamma rays beside the S106 star nursery",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-02_stars_s106-tev-gamma-rays/",
+      "published": "2026-11-02T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "HAWC has independently detected and mapped a very-high-energy gamma-ray source beside the S106 star-forming region. Fermi and Chandra data reveal lower-energy emission nearby, but the particles producing the TeV glow remain uncertain.",
+      "tags": [
+        "Stars & Stellar Evolution"
+      ]
+    },
     {
       "title": "Faint galaxies let JWST test dark matter in the early universe",
       "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-01_cosmology_jwst-glimpse-dark-matter/",
@@ -1123,6 +1203,14 @@
       "windowDays": 180,
       "entries": [
         {
+          "title": "We demand AI disclosure, but can’t agree on what deserves disclosing.",
+          "url": "https://www.linkedin.com/posts/ojaashampiholi_we-demand-ai-disclosure-but-cant-agree-activity-7524869732286705665-M9Ly",
+          "published": "2026-11-07T16:25:49.495000+00:00",
+          "source": "LinkedIn",
+          "excerpt": "We demand AI disclosure, but can’t agree on what deserves disclosing. Fixing someone’s English isn’t the same as outsourcing their thinking. On the other hand, autonomous agents can contribute ideas and not just polish sentences. A label alone won’t settle authorship moving forwa",
+          "tags": []
+        },
+        {
           "title": "Your AI says “99% fraud.”",
           "url": "https://www.linkedin.com/posts/ojaashampiholi_your-ai-says-99-fraud-would-you-block-activity-7520767523949060096-9kgc",
           "published": "2026-10-27T08:45:06.812000+00:00",
@@ -1144,14 +1232,6 @@
           "published": "2026-10-24T15:18:50.589000+00:00",
           "source": "LinkedIn",
           "excerpt": "Your AI agent worked all night. Great, now you need to prove it didn’t make things worse. Anthropic’s Claude Duet brings us closer to agents working while we’re away. But production ML taught me something: hitting a metric doesn’t guarantee a good outcome. We also need to study t",
-          "tags": []
-        },
-        {
-          "title": "A recommender doesn’t just learn what people want.",
-          "url": "https://www.linkedin.com/posts/ojaashampiholi_a-recommender-doesnt-just-learn-what-people-activity-7519759927226339328-XrAs",
-          "published": "2026-10-24T14:01:17.033000+00:00",
-          "source": "LinkedIn",
-          "excerpt": "A recommender doesn’t just learn what people want. It can change what they want next. I’ve seen versions of this in production: after recommendations influenced what users explored, the next round of behavior data no longer looked quite like the old one. Meta’s new GEM architectu",
           "tags": []
         }
       ]
@@ -1259,63 +1339,51 @@
       "windowDays": null,
       "entries": [
         {
-          "title": "Faint galaxies let JWST test dark matter in the early universe",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-01_cosmology_jwst-glimpse-dark-matter/",
-          "published": "2026-11-01T00:00:00+00:00",
+          "title": "A radio map resolves nearly 63,000 cosmic sources in one patch of sky",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-08_telescopes_lofar-ultradeep-radio-map/",
+          "published": "2026-11-08T00:00:00+00:00",
           "source": "Cosmic Notebook",
-          "excerpt": "JWST has counted galaxies so faint and distant that they can test how matter gathered on small scales about 750 million years after the Big Bang. A preliminary analysis finds that those galaxy counts are consistent with cold dark matter and sets an independent limit on one warm-d",
+          "excerpt": "LOFAR has produced an unusually sharp, deep radio view of a small region of sky. Combining new observations with an earlier map yields 62,916 sources, helping astronomers distinguish star formation from black-hole jets.",
           "tags": [
-            "Cosmology & Early Universe",
-            "Gravity & Fundamental Physics"
+            "Telescopes & Observatories",
+            "Galaxies & Galactic Evolution"
           ]
         },
         {
-          "title": "A less stable molecule outnumbers its sturdier twin in interstellar space",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-31_astrobiology_interstellar-hncoh-chemistry/",
-          "published": "2026-10-31T00:00:00+00:00",
+          "title": "JWST measures the most distant known ultra-cold Y dwarf",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-07_stars_jades-gs-bd-5-distant-y-dwarf/",
+          "published": "2026-11-07T00:00:00+00:00",
           "source": "Cosmic Notebook",
-          "excerpt": "Radio observations have identified HNCOH+ in space for the first time inside a chemically rich cloud near the Galactic Center. The ion is almost four times as abundant as a more stable arrangement of the same atoms, showing that interstellar chemistry is governed by reaction path",
+          "excerpt": "Five epochs of JWST imaging have pinned down the distance to JADES-GS-BD-5, an object colder than many ovens and about 64 parsecs away. It is roughly three times farther than any other Y dwarf with a reliable parallax distance.",
           "tags": [
-            "Astrobiology & Habitability"
+            "Stars & Stellar Evolution"
           ]
         },
         {
-          "title": "Rubin finds a dwarf-planet candidate hiding in a crowded star field",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-30_solar-system_rubin-2026-ed138-dwarf-planet-candidate/",
-          "published": "2026-10-30T00:00:00+00:00",
+          "title": "A digital twin finds a planet hidden in JWST's glare",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-06_exoplanets_flip-hidden-planet/",
+          "published": "2026-11-06T00:00:00+00:00",
           "source": "Cosmic Notebook",
-          "excerpt": "Early observations from the Rubin Observatory have revealed 2026 ED138, a bright world beyond Neptune whose estimated diameter could exceed 1,000 kilometers. Its dwarf-planet status and size remain provisional because astronomers have measured its reflected light, not its diamete",
+          "excerpt": "A physics-based model removed JWST's leftover starlight precisely enough to recover the known giant planet 51 Eridani b at a wavelength where standard processing missed it. Across several tests, the method improved planet-detection sensitivity by two to 15 times.",
+          "tags": [
+            "Exoplanets",
+            "Telescopes & Observatories"
+          ]
+        },
+        {
+          "title": "A strange gas hints that Mars may still have magma underground",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-05_solar-system_mars-hydrogen-chloride-volcanism/",
+          "published": "2026-11-05T00:00:00+00:00",
+          "source": "Cosmic Notebook",
+          "excerpt": "ExoMars detected unexpected hydrogen chloride near fissures on the flank of Alba Mons during a cold Martian season. The pattern may come from volcanic gas seeping out of Mars, but no magma or eruption has been observed directly.",
           "tags": [
             "Solar System & Planetary Science"
-          ]
-        },
-        {
-          "title": "Two faint galaxies glow beside a nearly pristine reservoir of cosmic gas",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-29_galaxies_near-pristine-dla-star-formation/",
-          "published": "2026-10-29T00:00:00+00:00",
-          "source": "Cosmic Notebook",
-          "excerpt": "Keck observations found two faint star-forming galaxies near a vast neutral-hydrogen cloud that contains less than one-thousandth of the Sun's iron abundance. The galaxies may offer a reachable view of primitive star formation, but their own metallicities and physical link to the",
-          "tags": [
-            "Galaxies & Galactic Evolution"
           ]
         }
       ]
     }
   },
   "themes": [
-    {
-      "label": "AI writes code",
-      "source": "LinkedIn",
-      "count": 1,
-      "basis": "Google autocomplete phrase matched to a public title, excerpt, or topic tag",
-      "evidence": [
-        {
-          "title": "“AI writes the design doc, AI writes the code, AI writes the unit tests and integration tests.",
-          "url": "https://www.linkedin.com/posts/ojaashampiholi_ai-writes-the-design-doc-ai-writes-the-activity-7492304953819013120-HbmL",
-          "published": "2026-08-09T19:45:01.245000+00:00"
-        }
-      ]
-    },
     {
       "label": "AI incident reporting framework",
       "source": "Medium",
@@ -1371,9 +1439,14 @@
     {
       "label": "planet formation in protoplanetary disks",
       "source": "Cosmic Notebook",
-      "count": 9,
+      "count": 10,
       "basis": "Google autocomplete phrase matched to a public title, excerpt, or topic tag",
       "evidence": [
+        {
+          "title": "JWST traces carbon from a hot inner disk into a planet-forming wind",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-04_planet-formation_hops-68-carbon-wind/",
+          "published": "2026-11-04T00:00:00+00:00"
+        },
         {
           "title": "The youngest known planet is still forming in its disk",
           "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-18_exoplanets_elias-2-24-b-youngest-planet/",
@@ -1383,18 +1456,13 @@
           "title": "JWST watches planet-forming disks lose their gas",
           "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-09-02_planet-formation_jwst-disk-winds/",
           "published": "2026-09-02T00:00:00+00:00"
-        },
-        {
-          "title": "ALMA finds a gentle warp in the planet-forming ring around CQ Tau",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-10-27_planet-formation_cq-tau-warped-dust-ring/",
-          "published": "2026-10-27T00:00:00+00:00"
         }
       ]
     },
     {
       "label": "black hole jets explained",
       "source": "Cosmic Notebook",
-      "count": 6,
+      "count": 7,
       "basis": "Google autocomplete phrase matched to a public title, excerpt, or topic tag",
       "evidence": [
         {
