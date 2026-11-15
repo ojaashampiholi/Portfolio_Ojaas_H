@@ -1,18 +1,18 @@
 {
-  "refreshed": "2026-11-08T22:19:44.031934+00:00",
+  "refreshed": "2026-11-15T23:02:38.909847+00:00",
   "windowDays": 90,
-  "windowStart": "2026-08-10",
+  "windowStart": "2026-08-17",
   "sources": [
     {
       "name": "LinkedIn",
       "status": "fresh",
-      "lastSuccess": "2026-11-08T22:19:44.031934+00:00",
+      "lastSuccess": "2026-11-15T23:02:38.909847+00:00",
       "error": null
     },
     {
       "name": "Medium",
       "status": "fresh",
-      "lastSuccess": "2026-11-08T22:19:44.031934+00:00",
+      "lastSuccess": "2026-11-15T23:02:38.909847+00:00",
       "error": null
     },
     {
@@ -24,11 +24,83 @@
     {
       "name": "Cosmic Notebook",
       "status": "fresh",
-      "lastSuccess": "2026-11-08T22:19:44.031934+00:00",
+      "lastSuccess": "2026-11-15T23:02:38.909847+00:00",
       "error": null
     }
   ],
   "entries": [
+    {
+      "title": "A cold giant planet challenges the usual growth route",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-15_exoplanets_hip-88962-b-cold-giant/",
+      "published": "2026-11-15T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Sixteen years of observations have revealed HIP 88962 b, a planet nearly five times Jupiter's mass on a wide, elongated orbit around a low-mass star. Its position and mass are difficult to reproduce with standard planet-growth simulations, raising the possibility that it formed w",
+      "tags": [
+        "Exoplanets",
+        "Planet Formation"
+      ]
+    },
+    {
+      "title": "Euclid resolves fifteen exceptionally faint stellar systems",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-14_galaxies_euclid-faint-stellar-systems/",
+      "published": "2026-11-14T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "A search through Euclid's first major survey release has resolved 15 extremely faint stellar systems into individual stars for the first time. Five are new discoveries, while ten were previously known only as unresolved patches of light.",
+      "tags": [
+        "Galaxies & Galactic Evolution"
+      ]
+    },
+    {
+      "title": "An independent reconstruction recovers M87*'s black hole ring",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-13_black-holes_m87-ring-independent-test/",
+      "published": "2026-11-13T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "A new imaging method has recovered M87*'s ring from Event Horizon Telescope data while avoiding several calibration choices used in earlier reconstructions. Across observations from 2017, 2018, and 2021, the ring's measured diameter remained close to 42 microarcseconds.",
+      "tags": [
+        "Black Holes"
+      ]
+    },
+    {
+      "title": "A hidden companion may be an unusually heavy neutron star",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-12_stars_j0008-hidden-heavy-neutron-star/",
+      "published": "2026-11-12T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "A red giant called J0008+0128 is orbiting an unseen object with a best-fit mass of 2.20 Suns. The companion is probably an unusually massive neutron star, but its identity and the origin of its wide, nearly circular orbit are not yet settled.",
+      "tags": [
+        "Stars & Stellar Evolution"
+      ]
+    },
+    {
+      "title": "IceCube finds a fivefold neutrino gradient across the Milky Way",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-11_galaxies_icecube-neutrino-gradient/",
+      "published": "2026-11-11T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "IceCube has measured how high-energy neutrino emission changes along the Milky Way's plane for the first time. At 5 TeV, the flux per patch of sky near the Galactic center is about five times that in the outer Galaxy, although the spatial contrast remains statistically suggestive",
+      "tags": [
+        "Galaxies & Galactic Evolution"
+      ]
+    },
+    {
+      "title": "JWST detects H3+'s forbidden molecular fingerprint",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-10_astrobiology_h3-forbidden-rotation/",
+      "published": "2026-11-10T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "JWST has detected the pure rotational spectrum of H3+ for the first time, finding 26 lines in shocked gas around HH 168. The ion starts much of interstellar chemistry, but its symmetry had kept this molecular fingerprint hidden for four decades after theory predicted it.",
+      "tags": [
+        "Astrobiology & Habitability",
+        "Stars & Stellar Evolution"
+      ]
+    },
+    {
+      "title": "Sixty galaxy clusters become cosmic magnifying glasses for JWST",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-09_cosmology_venus-galaxy-cluster-lenses/",
+      "published": "2026-11-09T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Galaxy clusters bend and amplify light from much more distant objects. A new JWST-assisted study maps 60 of these natural telescopes using thousands of repeated images.",
+      "tags": [
+        "Cosmology & Early Universe"
+      ]
+    },
     {
       "title": "A radio map resolves nearly 63,000 cosmic sources in one patch of sky",
       "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-08_telescopes_lofar-ultradeep-radio-map/",
@@ -1339,45 +1411,44 @@
       "windowDays": null,
       "entries": [
         {
-          "title": "A radio map resolves nearly 63,000 cosmic sources in one patch of sky",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-08_telescopes_lofar-ultradeep-radio-map/",
-          "published": "2026-11-08T00:00:00+00:00",
+          "title": "A cold giant planet challenges the usual growth route",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-15_exoplanets_hip-88962-b-cold-giant/",
+          "published": "2026-11-15T00:00:00+00:00",
           "source": "Cosmic Notebook",
-          "excerpt": "LOFAR has produced an unusually sharp, deep radio view of a small region of sky. Combining new observations with an earlier map yields 62,916 sources, helping astronomers distinguish star formation from black-hole jets.",
+          "excerpt": "Sixteen years of observations have revealed HIP 88962 b, a planet nearly five times Jupiter's mass on a wide, elongated orbit around a low-mass star. Its position and mass are difficult to reproduce with standard planet-growth simulations, raising the possibility that it formed w",
           "tags": [
-            "Telescopes & Observatories",
+            "Exoplanets",
+            "Planet Formation"
+          ]
+        },
+        {
+          "title": "Euclid resolves fifteen exceptionally faint stellar systems",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-14_galaxies_euclid-faint-stellar-systems/",
+          "published": "2026-11-14T00:00:00+00:00",
+          "source": "Cosmic Notebook",
+          "excerpt": "A search through Euclid's first major survey release has resolved 15 extremely faint stellar systems into individual stars for the first time. Five are new discoveries, while ten were previously known only as unresolved patches of light.",
+          "tags": [
             "Galaxies & Galactic Evolution"
           ]
         },
         {
-          "title": "JWST measures the most distant known ultra-cold Y dwarf",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-07_stars_jades-gs-bd-5-distant-y-dwarf/",
-          "published": "2026-11-07T00:00:00+00:00",
+          "title": "An independent reconstruction recovers M87*'s black hole ring",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-13_black-holes_m87-ring-independent-test/",
+          "published": "2026-11-13T00:00:00+00:00",
           "source": "Cosmic Notebook",
-          "excerpt": "Five epochs of JWST imaging have pinned down the distance to JADES-GS-BD-5, an object colder than many ovens and about 64 parsecs away. It is roughly three times farther than any other Y dwarf with a reliable parallax distance.",
+          "excerpt": "A new imaging method has recovered M87*'s ring from Event Horizon Telescope data while avoiding several calibration choices used in earlier reconstructions. Across observations from 2017, 2018, and 2021, the ring's measured diameter remained close to 42 microarcseconds.",
+          "tags": [
+            "Black Holes"
+          ]
+        },
+        {
+          "title": "A hidden companion may be an unusually heavy neutron star",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-12_stars_j0008-hidden-heavy-neutron-star/",
+          "published": "2026-11-12T00:00:00+00:00",
+          "source": "Cosmic Notebook",
+          "excerpt": "A red giant called J0008+0128 is orbiting an unseen object with a best-fit mass of 2.20 Suns. The companion is probably an unusually massive neutron star, but its identity and the origin of its wide, nearly circular orbit are not yet settled.",
           "tags": [
             "Stars & Stellar Evolution"
-          ]
-        },
-        {
-          "title": "A digital twin finds a planet hidden in JWST's glare",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-06_exoplanets_flip-hidden-planet/",
-          "published": "2026-11-06T00:00:00+00:00",
-          "source": "Cosmic Notebook",
-          "excerpt": "A physics-based model removed JWST's leftover starlight precisely enough to recover the known giant planet 51 Eridani b at a wavelength where standard processing missed it. Across several tests, the method improved planet-detection sensitivity by two to 15 times.",
-          "tags": [
-            "Exoplanets",
-            "Telescopes & Observatories"
-          ]
-        },
-        {
-          "title": "A strange gas hints that Mars may still have magma underground",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-05_solar-system_mars-hydrogen-chloride-volcanism/",
-          "published": "2026-11-05T00:00:00+00:00",
-          "source": "Cosmic Notebook",
-          "excerpt": "ExoMars detected unexpected hydrogen chloride near fissures on the flank of Alba Mons during a cold Martian season. The pattern may come from volcanic gas seeping out of Mars, but no magma or eruption has been observed directly.",
-          "tags": [
-            "Solar System & Planetary Science"
           ]
         }
       ]
@@ -1439,7 +1510,7 @@
     {
       "label": "planet formation in protoplanetary disks",
       "source": "Cosmic Notebook",
-      "count": 10,
+      "count": 11,
       "basis": "Google autocomplete phrase matched to a public title, excerpt, or topic tag",
       "evidence": [
         {
