@@ -1,18 +1,18 @@
 {
-  "refreshed": "2026-11-15T23:02:38.909847+00:00",
+  "refreshed": "2026-11-22T23:42:45.966086+00:00",
   "windowDays": 90,
-  "windowStart": "2026-08-17",
+  "windowStart": "2026-08-24",
   "sources": [
     {
       "name": "LinkedIn",
       "status": "fresh",
-      "lastSuccess": "2026-11-15T23:02:38.909847+00:00",
+      "lastSuccess": "2026-11-22T23:42:45.966086+00:00",
       "error": null
     },
     {
       "name": "Medium",
       "status": "fresh",
-      "lastSuccess": "2026-11-15T23:02:38.909847+00:00",
+      "lastSuccess": "2026-11-22T23:42:45.966086+00:00",
       "error": null
     },
     {
@@ -24,11 +24,82 @@
     {
       "name": "Cosmic Notebook",
       "status": "fresh",
-      "lastSuccess": "2026-11-15T23:02:38.909847+00:00",
+      "lastSuccess": "2026-11-22T23:42:45.966086+00:00",
       "error": null
     }
   ],
   "entries": [
+    {
+      "title": "A lattice algorithm found a pulsar hidden in sparse gamma rays",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-22_stars_lattice-gamma-ray-pulsar/",
+      "published": "2026-11-22T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "A new search method uncovered PSR J1622-7204, a neutron star that spins 261 times each second, in 15 years of sparse gamma-ray data. By turning the missing rotations between photons into a geometry problem, the researchers cut a previously unsuccessful search from centuries of pr",
+      "tags": [
+        "Stars & Stellar Evolution"
+      ]
+    },
+    {
+      "title": "Twelve dust grains reveal ancient water beyond Neptune",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-21_solar-system_kuiper-belt-heavy-water/",
+      "published": "2026-11-21T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Twelve microscopic dust grains collected above Earth preserve the chemical mark of water from beyond the giant planets. Their oxygen isotopes suggest that the young Solar System contained a distant water reservoir that remained surprisingly isolated.",
+      "tags": [
+        "Solar System & Planetary Science"
+      ]
+    },
+    {
+      "title": "Two quasars heated a vast bubble in the young universe",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-20_galaxies_dual-quasar-hot-gas-bubble/",
+      "published": "2026-11-20T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Millimeter observations have revealed an immense store of hot gas around two quasars seen 2.8 billion years after the Big Bang. Its measured thermal energy is far greater than gravity alone is expected to produce, pointing to powerful heating by growing black holes.",
+      "tags": [
+        "Galaxies & Galactic Evolution",
+        "Black Holes"
+      ]
+    },
+    {
+      "title": "A star spent seven years spiraling inside its giant companion",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-19_stars_bao-common-envelope-inspiral/",
+      "published": "2026-11-19T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "Astronomers traced seven years of gradual brightening from a binary in Andromeda before it erupted in 2025. The evidence is best explained by a small star spiraling through a giant companion's shared envelope and probably merging with its core.",
+      "tags": [
+        "Stars & Stellar Evolution"
+      ]
+    },
+    {
+      "title": "JWST finds glassy ice in a young planetary system",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-18_planet-formation_beta-pictoris-dirty-ice/",
+      "published": "2026-11-18T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "JWST has directly detected water and carbon-dioxide ice in the debris disk around Beta Pictoris. The water is overwhelmingly amorphous, and its broad distribution points to frequent collisions among icy planetary building blocks.",
+      "tags": [
+        "Planet Formation"
+      ]
+    },
+    {
+      "title": "One solar eruption squeezed another into a stronger storm",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-17_sun-space-weather_cme-squeezing-magnetic-field/",
+      "published": "2026-11-17T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "A later solar eruption appears to have squeezed an earlier one as both raced toward Earth in May 2024. Simulations show that the compression preserved a southward magnetic field about twice as strong as it would have been in the first eruption alone.",
+      "tags": [
+        "Sun & Space Weather"
+      ]
+    },
+    {
+      "title": "A white dwarf sends radio pulses every eight minutes",
+      "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-16_stars_white-dwarf-eight-minute-radio-pulses/",
+      "published": "2026-11-16T00:00:00+00:00",
+      "source": "Cosmic Notebook",
+      "excerpt": "A white dwarf more than 5,000 light-years away produces radio pulses every 7.9 minutes while orbiting a Sun-like star. The pulses track the white dwarf's motion and probe magnetized plasma around its companion.",
+      "tags": [
+        "Stars & Stellar Evolution"
+      ]
+    },
     {
       "title": "A cold giant planet challenges the usual growth route",
       "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-15_exoplanets_hip-88962-b-cold-giant/",
@@ -680,9 +751,9 @@
       "tags": []
     },
     {
-      "title": "A recommender that wins offline but collapses at cold start",
+      "title": "A recommender that wins offline but collapses at cold start hasn’t really won.",
       "url": "https://www.linkedin.com/posts/ojaashampiholi_a-recommender-that-wins-offline-but-collapses-activity-7510718831166644224-wNJY",
-      "published": "2026-09-29T15:15:11.706000+00:00",
+      "published": "2026-09-29T15:15:11.756000+00:00",
       "source": "LinkedIn",
       "excerpt": "A recommender that wins offline but collapses at cold start hasn’t really won. It passed an evaluation whose conditions were too kind. That is why the agenda around RecSys 2026 matters. The conference call goes beyond better algorithms: it explicitly includes evaluation beyond ac",
       "tags": []
@@ -1411,42 +1482,42 @@
       "windowDays": null,
       "entries": [
         {
-          "title": "A cold giant planet challenges the usual growth route",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-15_exoplanets_hip-88962-b-cold-giant/",
-          "published": "2026-11-15T00:00:00+00:00",
+          "title": "A lattice algorithm found a pulsar hidden in sparse gamma rays",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-22_stars_lattice-gamma-ray-pulsar/",
+          "published": "2026-11-22T00:00:00+00:00",
           "source": "Cosmic Notebook",
-          "excerpt": "Sixteen years of observations have revealed HIP 88962 b, a planet nearly five times Jupiter's mass on a wide, elongated orbit around a low-mass star. Its position and mass are difficult to reproduce with standard planet-growth simulations, raising the possibility that it formed w",
+          "excerpt": "A new search method uncovered PSR J1622-7204, a neutron star that spins 261 times each second, in 15 years of sparse gamma-ray data. By turning the missing rotations between photons into a geometry problem, the researchers cut a previously unsuccessful search from centuries of pr",
           "tags": [
-            "Exoplanets",
-            "Planet Formation"
+            "Stars & Stellar Evolution"
           ]
         },
         {
-          "title": "Euclid resolves fifteen exceptionally faint stellar systems",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-14_galaxies_euclid-faint-stellar-systems/",
-          "published": "2026-11-14T00:00:00+00:00",
+          "title": "Twelve dust grains reveal ancient water beyond Neptune",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-21_solar-system_kuiper-belt-heavy-water/",
+          "published": "2026-11-21T00:00:00+00:00",
           "source": "Cosmic Notebook",
-          "excerpt": "A search through Euclid's first major survey release has resolved 15 extremely faint stellar systems into individual stars for the first time. Five are new discoveries, while ten were previously known only as unresolved patches of light.",
+          "excerpt": "Twelve microscopic dust grains collected above Earth preserve the chemical mark of water from beyond the giant planets. Their oxygen isotopes suggest that the young Solar System contained a distant water reservoir that remained surprisingly isolated.",
           "tags": [
-            "Galaxies & Galactic Evolution"
+            "Solar System & Planetary Science"
           ]
         },
         {
-          "title": "An independent reconstruction recovers M87*'s black hole ring",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-13_black-holes_m87-ring-independent-test/",
-          "published": "2026-11-13T00:00:00+00:00",
+          "title": "Two quasars heated a vast bubble in the young universe",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-20_galaxies_dual-quasar-hot-gas-bubble/",
+          "published": "2026-11-20T00:00:00+00:00",
           "source": "Cosmic Notebook",
-          "excerpt": "A new imaging method has recovered M87*'s ring from Event Horizon Telescope data while avoiding several calibration choices used in earlier reconstructions. Across observations from 2017, 2018, and 2021, the ring's measured diameter remained close to 42 microarcseconds.",
+          "excerpt": "Millimeter observations have revealed an immense store of hot gas around two quasars seen 2.8 billion years after the Big Bang. Its measured thermal energy is far greater than gravity alone is expected to produce, pointing to powerful heating by growing black holes.",
           "tags": [
+            "Galaxies & Galactic Evolution",
             "Black Holes"
           ]
         },
         {
-          "title": "A hidden companion may be an unusually heavy neutron star",
-          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-12_stars_j0008-hidden-heavy-neutron-star/",
-          "published": "2026-11-12T00:00:00+00:00",
+          "title": "A star spent seven years spiraling inside its giant companion",
+          "url": "https://ojaashampiholi.github.io/the-cosmic-notebook/posts/2026-11-19_stars_bao-common-envelope-inspiral/",
+          "published": "2026-11-19T00:00:00+00:00",
           "source": "Cosmic Notebook",
-          "excerpt": "A red giant called J0008+0128 is orbiting an unseen object with a best-fit mass of 2.20 Suns. The companion is probably an unusually massive neutron star, but its identity and the origin of its wide, nearly circular orbit are not yet settled.",
+          "excerpt": "Astronomers traced seven years of gradual brightening from a binary in Andromeda before it erupted in 2025. The evidence is best explained by a small star spiraling through a giant companion's shared envelope and probably merging with its core.",
           "tags": [
             "Stars & Stellar Evolution"
           ]
@@ -1510,7 +1581,7 @@
     {
       "label": "planet formation in protoplanetary disks",
       "source": "Cosmic Notebook",
-      "count": 11,
+      "count": 12,
       "basis": "Google autocomplete phrase matched to a public title, excerpt, or topic tag",
       "evidence": [
         {
